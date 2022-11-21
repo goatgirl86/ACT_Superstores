@@ -26,6 +26,7 @@ Kaggle Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-fina
 - Database Management: Python, VSCode, PgAdmin (PostgreSQL), SQL Alchemy
 
 ### Katlin's Conclusions
+*See Tableau and Jupyter Notebook files in Katlin folder*
 - California and New York have the highest total sales but some of the lowest average sales.
 - Wyoming and Vermont have some of the lowest total sales but the highest average sales.
 - New York and California, again, have the highest total profits. Vermont tops the field with the highest average profit.
