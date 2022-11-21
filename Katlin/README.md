@@ -12,8 +12,8 @@ This project was created as part of a Trilogy Education Services Alumni project.
 Kaggle Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Katlin's Contributions (updated 11/20/22)
-Tableau: https://public.tableau.com/shared/4F4TYWDRZ?:display_count=n&:origin=viz_share_link
 Folder: Katlin
+Tableau: https://public.tableau.com/shared/6WBBDR9TQ?:display_count=n&:origin=viz_share_link
 
 ### Questions to Investigate
 1. Which states, categories, and sectors have the highest sales and profits?
