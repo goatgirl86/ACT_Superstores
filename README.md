@@ -5,7 +5,7 @@ By: Katlin and Kazuki
 
 ## Summary of Project
 ### Project Purpose
-This project was created as part of a Trilogy Education Services Alumni project. It was performed for educational purposes only to challenge our skills and broaden our experience working in data analytics.
+This project is created as part of a Trilogy Education Services Alumni project. It is performed for educational purposes only to challenge our skills and broaden our experience working in data analytics.
 
 ## Source Data
 Kaggle Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
