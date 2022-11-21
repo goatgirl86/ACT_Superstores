@@ -6,14 +6,14 @@ By: Katlin and Kazuki
 ## Summary of Project
 
 ## Project Purpose
-This project was created as part of a Trilogy Education Services Alumni project. It was performed for educational purposes only to challenge our skills and broaden our expenience working in data analytics. 
+This project was created as part of a Trilogy Education Services Alumni project. It was performed for educational purposes only to challenge our skills and broaden our experience working in data analytics. 
 
 ## Source Data
 Kaggle Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## Katlin's Contributions (updated 11/20/22)
-Folder: Katlin
-Tableau: https://public.tableau.com/shared/6WBBDR9TQ?:display_count=n&:origin=viz_share_link
+- Folder: Katlin
+- Tableau: https://public.tableau.com/shared/6WBBDR9TQ?:display_count=n&:origin=viz_share_link
 
 ### Questions to Investigate
 1. Which states, categories, and sectors have the highest sales and profits?
@@ -22,9 +22,9 @@ Tableau: https://public.tableau.com/shared/6WBBDR9TQ?:display_count=n&:origin=vi
 4. How do discount rates factor into overall profits?
 
 ### Technologies, Languages, Tools, and Algorithms Used
-Data Preprocessing: Python, VSCode, PgAdmin
-Data Visualization: Tableau
-Database Management: Python, VSCode, PgAdmin (PostgreSQL), SQL Alchemy
+- Data Preprocessing: Python, VSCode, PgAdmin
+- Data Visualization: Tableau
+- Database Management: Python, VSCode, PgAdmin (PostgreSQL), SQL Alchemy
 
 ### Katlin's Conclusions
 - California and New York have the highest total sales but some of the lowest average sales.  
