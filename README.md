@@ -15,10 +15,10 @@ Kaggle Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-fina
 - Tableau: https://public.tableau.com/shared/6WBBDR9TQ?:display_count=n&:origin=viz_share_link
 
 ### Questions to Investigate
-- Which states, categories, and sectors have the highest sales and profits?
-- How have profits changed over time?
-- How do sales and profits compare?
-- How do discount rates factor into overall profits?
+1. Which states, categories, and sectors have the highest sales and profits?
+2. How have profits changed over time?
+3. How do sales and profits compare?
+4. How do discount rates factor into overall profits?
 
 ### Technologies, Languages, Tools, and Algorithms Used
 - Data Preprocessing: Python, VSCode, PgAdmin 
