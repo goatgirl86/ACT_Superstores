@@ -1,0 +1,801 @@
+order_id,customer_id,city,states,region,segment,category,subcategory,product_id,product_name,sales,profit,returned
+CA-2014-143336,ZD-21925,San Francisco,California,West,Consumer,Office Supplies,Art,OFF-AR-10003056,Newell 341,8.56,2.4824,Yes
+CA-2014-143336,ZD-21925,San Francisco,California,West,Consumer,Technology,Phones,TEC-PH-10001949,Cisco SPA 501G IP Phone,213.48,16.011,Yes
+CA-2014-143336,ZD-21925,San Francisco,California,West,Consumer,Office Supplies,Binders,OFF-BI-10002215,"Wilson Jones Hanging View Binder, White, 1""",22.72,7.384,Yes
+CA-2016-111682,TB-21055,Troy,New York,East,Consumer,Office Supplies,Storage,OFF-ST-10000604,Home/Office Personal File Carts,208.56,52.14,Yes
+CA-2016-111682,TB-21055,Troy,New York,East,Consumer,Office Supplies,Paper,OFF-PA-10001569,Xerox 232,32.4,15.552,Yes
+CA-2016-111682,TB-21055,Troy,New York,East,Consumer,Furniture,Chairs,FUR-CH-10003968,Novimex Turbo Task Chair,319.41,7.098,Yes
+CA-2016-111682,TB-21055,Troy,New York,East,Consumer,Office Supplies,Paper,OFF-PA-10000587,"Array Parchment Paper, Assorted Colors",14.56,6.9888,Yes
+CA-2016-111682,TB-21055,Troy,New York,East,Consumer,Technology,Accessories,TEC-AC-10002167,Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive,30,3.3,Yes
+CA-2016-111682,TB-21055,Troy,New York,East,Consumer,Office Supplies,Binders,OFF-BI-10001460,Plastic Binding Combs,48.48,16.362,Yes
+CA-2016-111682,TB-21055,Troy,New York,East,Consumer,Office Supplies,Art,OFF-AR-10001868,Prang Dustless Chalk Sticks,1.68,0.84,Yes
+CA-2016-109806,JS-15685,Los Angeles,California,West,Corporate,Office Supplies,Art,OFF-AR-10004930,Turquoise Lead Holder with Pocket Clip,20.1,6.633,Yes
+CA-2016-109806,JS-15685,Los Angeles,California,West,Corporate,Technology,Phones,TEC-PH-10004093,Panasonic Kx-TS550,73.584,8.2782,Yes
+CA-2016-109806,JS-15685,Los Angeles,California,West,Corporate,Office Supplies,Paper,OFF-PA-10000304,Xerox 1995,6.48,3.1104,Yes
+CA-2016-145583,LC-16885,Roseville,California,West,Consumer,Office Supplies,Paper,OFF-PA-10001804,Xerox 195,20.04,9.6192,Yes
+CA-2016-145583,LC-16885,Roseville,California,West,Consumer,Office Supplies,Paper,OFF-PA-10001736,Xerox 1880,35.44,16.6568,Yes
+CA-2016-145583,LC-16885,Roseville,California,West,Consumer,Office Supplies,Art,OFF-AR-10001149,"Sanford Colorific Colored Pencils, 12/Box",11.52,3.456,Yes
+CA-2016-145583,LC-16885,Roseville,California,West,Consumer,Office Supplies,Fasteners,OFF-FA-10002988,Ideal Clamps,4.02,1.9698,Yes
+CA-2016-145583,LC-16885,Roseville,California,West,Consumer,Office Supplies,Binders,OFF-BI-10004781,GBC Wire Binding Strips,76.176,26.6616,Yes
+CA-2016-145583,LC-16885,Roseville,California,West,Consumer,Office Supplies,Supplies,OFF-SU-10001218,Fiskars Softgrip Scissors,65.88,18.4464,Yes
+CA-2016-145583,LC-16885,Roseville,California,West,Consumer,Furniture,Furnishings,FUR-FU-10001706,Longer-Life Soft White Bulbs,43.12,20.6976,Yes
+CA-2014-133690,BS-11755,Denver,Colorado,West,Consumer,Furniture,Tables,FUR-TA-10004289,BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,218.75,-161.875,Yes
+CA-2014-133690,BS-11755,Denver,Colorado,West,Consumer,Office Supplies,Appliances,OFF-AP-10003622,"Bravo II Megaboss 12-Amp Hard Body Upright, Replacement Belts, 2 Belts per Pack",2.6,0.2925,Yes
+CA-2015-146262,VW-21775,Medina,Ohio,East,Corporate,Office Supplies,Labels,OFF-LA-10004544,Avery 505,23.68,8.88,Yes
+CA-2015-146262,VW-21775,Medina,Ohio,East,Corporate,Furniture,Bookcases,FUR-BO-10004695,O'Sullivan 2-Door Barrister Bookcase in Odessa Pine,452.45,-244.323,Yes
+CA-2015-146262,VW-21775,Medina,Ohio,East,Corporate,Technology,Phones,TEC-PH-10002844,Speck Products Candyshell Flip Case,62.982,-14.6958,Yes
+CA-2015-146262,VW-21775,Medina,Ohio,East,Corporate,Technology,Machines,TEC-MA-10000864,Cisco 9971 IP Video Phone Charcoal,1188,-950.4,Yes
+CA-2015-146262,VW-21775,Medina,Ohio,East,Corporate,Technology,Accessories,TEC-AC-10000109,Sony Micro Vault Click 16 GB USB 2.0 Flash Drive,89.584,4.4792,Yes
+CA-2015-169397,JB-15925,Dublin,Ohio,East,Consumer,Office Supplies,Fasteners,OFF-FA-10000585,OIC Bulk Pack Metal Binder Clips,5.584,1.8148,Yes
+CA-2015-169397,JB-15925,Dublin,Ohio,East,Consumer,Office Supplies,Paper,OFF-PA-10004000,"While You Were Out Pads, 50 per Pad, 4 x 5 1/4, Green Cycle",22.704,8.2302,Yes
+CA-2015-169397,JB-15925,Dublin,Ohio,East,Consumer,Office Supplies,Binders,OFF-BI-10002852,Ibico Standard Transparent Covers,19.776,-13.8432,Yes
+CA-2015-169397,JB-15925,Dublin,Ohio,East,Consumer,Furniture,Furnishings,FUR-FU-10000087,"Executive Impressions 14"" Two-Color Numerals Wall Clock",72.704,19.0848,Yes
+CA-2015-169397,JB-15925,Dublin,Ohio,East,Consumer,Technology,Machines,TEC-MA-10001148,Swingline SM12-08 MicroCut Jam Free Shredder,479.988,-383.9904,Yes
+CA-2015-169397,JB-15925,Dublin,Ohio,East,Consumer,Office Supplies,Art,OFF-AR-10001958,Stanley Bostitch Contemporary Electric Pencil Sharpeners,27.168,2.7168,Yes
+CA-2016-162138,GK-14620,Hesperia,California,West,Corporate,Office Supplies,Binders,OFF-BI-10004593,Ibico Laser Imprintable Binding System Covers,251.52,81.744,Yes
+CA-2016-162138,GK-14620,Hesperia,California,West,Corporate,Technology,Accessories,TEC-AC-10001908,Logitech Wireless Headset h800,99.99,34.9965,Yes
+CA-2016-134775,AS-10285,San Francisco,California,West,Corporate,Office Supplies,Paper,OFF-PA-10004734,Southworth Structures Collection,50.96,25.48,Yes
+CA-2016-134775,AS-10285,San Francisco,California,West,Corporate,Office Supplies,Binders,OFF-BI-10002225,"Square Ring Data Binders, Rigid 75 Pt. Covers, 11"" x 14-7/8""",49.536,17.3376,Yes
+CA-2016-148796,PB-19150,Los Angeles,California,West,Consumer,Furniture,Chairs,FUR-CH-10004886,Bevis Steel Folding Chairs,383.8,38.38,Yes
+US-2014-150574,MK-18160,Jacksonville,Florida,South,Consumer,Office Supplies,Binders,OFF-BI-10000773,Insertable Tab Post Binder Dividers,4.812,-3.6892,Yes
+US-2014-150574,MK-18160,Jacksonville,Florida,South,Consumer,Technology,Accessories,TEC-AC-10002600,Belkin QODE FastFit Bluetooth Keyboard,247.8,-18.585,Yes
+CA-2016-147375,PO-19180,Chicago,Illinois,Central,Home Office,Technology,Machines,TEC-MA-10002937,"Canon Color ImageCLASS MF8580Cdw Wireless Laser All-In-One Printer, Copier, Scanner",1007.979,43.1991,Yes
+CA-2016-147375,PO-19180,Chicago,Illinois,Central,Home Office,Office Supplies,Paper,OFF-PA-10001970,Xerox 1908,313.488,113.6394,Yes
+CA-2017-154214,TB-21595,Columbus,Indiana,Central,Consumer,Furniture,Furnishings,FUR-FU-10000206,"GE General Purpose, Extra Long Life, Showcase & Floodlight Incandescent Bulbs",2.91,1.3677,Yes
+CA-2016-109869,TN-21040,Phoenix,Arizona,West,Home Office,Furniture,Furnishings,FUR-FU-10000023,Eldon Wave Desk Accessories,23.56,7.068,Yes
+CA-2016-109869,TN-21040,Phoenix,Arizona,West,Home Office,Furniture,Tables,FUR-TA-10001889,Bush Advantage Collection Racetrack Conference Table,1272.63,-814.4832,Yes
+CA-2016-109869,TN-21040,Phoenix,Arizona,West,Home Office,Office Supplies,Binders,OFF-BI-10000315,Poly Designer Cover & Back,28.485,-20.889,Yes
+CA-2016-109869,TN-21040,Phoenix,Arizona,West,Home Office,Office Supplies,Supplies,OFF-SU-10003505,Premier Electric Letter Opener,185.376,-34.758,Yes
+CA-2016-109869,TN-21040,Phoenix,Arizona,West,Home Office,Office Supplies,Appliances,OFF-AP-10002578,"Fellowes Premier Superior Surge Suppressor, 10-Outlet, With Phone and Remote",78.272,5.8704,Yes
+CA-2017-140963,MT-18070,Los Angeles,California,West,Home Office,Office Supplies,Labels,OFF-LA-10003923,Alphabetical Labels for Top Tab Filing,29.6,14.8,Yes
+CA-2017-140963,MT-18070,Los Angeles,California,West,Home Office,Furniture,Bookcases,FUR-BO-10001337,O'Sullivan Living Dimensions 2-Shelf Bookcases,514.165,-30.245,Yes
+CA-2017-140963,MT-18070,Los Angeles,California,West,Home Office,Technology,Phones,TEC-PH-10001924,iHome FM Clock Radio with Lightning Dock,279.96,17.4975,Yes
+US-2016-105578,MY-17380,Parker,Colorado,West,Corporate,Office Supplies,Binders,OFF-BI-10001670,Vinyl Sectional Post Binders,22.62,-15.08,Yes
+US-2016-105578,MY-17380,Parker,Colorado,West,Corporate,Office Supplies,Binders,OFF-BI-10001658,GBC Standard Therm-A-Bind Covers,14.952,-11.9616,Yes
+US-2016-105578,MY-17380,Parker,Colorado,West,Corporate,Furniture,Chairs,FUR-CH-10001215,Global Troy Executive Leather Low-Back Tilter,801.568,50.098,Yes
+US-2016-105578,MY-17380,Parker,Colorado,West,Corporate,Office Supplies,Binders,OFF-BI-10000831,Storex Flexible Poly Binders with Double Pockets,2.376,-1.9008,Yes
+US-2016-105578,MY-17380,Parker,Colorado,West,Corporate,Office Supplies,Paper,OFF-PA-10000357,"White Dual Perf Computer Printout Paper, 2700 Sheets, 1 Part, Heavyweight, 20 lbs., 14 7/8 x 11",32.792,11.8871,Yes
+CA-2015-157812,DB-13210,Houston,Texas,Central,Consumer,Technology,Accessories,TEC-AC-10000171,"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 25/Pack",18.392,5.2877,Yes
+CA-2015-157812,DB-13210,Houston,Texas,Central,Consumer,Office Supplies,Storage,OFF-ST-10000736,Carina Double Wide Media Storage Towers in Natural & Black,129.568,-25.9136,Yes
+CA-2015-157812,DB-13210,Houston,Texas,Central,Consumer,Office Supplies,Binders,OFF-BI-10000285,XtraLife ClearVue Slant-D Ring Binders by Cardinal,14.112,-21.168,Yes
+CA-2016-136924,ES-14080,Tucson,Arizona,West,Corporate,Technology,Phones,TEC-PH-10002262,LG Electronics Tone+ HBS-730 Bluetooth Headset,380.864,38.0864,Yes
+CA-2017-137099,FP-14320,Los Angeles,California,West,Consumer,Technology,Phones,TEC-PH-10002496,Cisco SPA301,374.376,46.797,Yes
+US-2016-156986,ZC-21910,Salem,Oregon,West,Consumer,Technology,Phones,TEC-PH-10003800,i.Sound Portable Power - 8000 mAh,84.784,-20.1362,Yes
+US-2016-156986,ZC-21910,Salem,Oregon,West,Consumer,Office Supplies,Paper,OFF-PA-10002005,Xerox 225,20.736,7.2576,Yes
+US-2016-156986,ZC-21910,Salem,Oregon,West,Consumer,Office Supplies,Binders,OFF-BI-10002498,Clear Mylar Reinforcing Strips,16.821,-12.8961,Yes
+US-2016-156986,ZC-21910,Salem,Oregon,West,Consumer,Office Supplies,Paper,OFF-PA-10004101,Xerox 1894,10.368,3.6288,Yes
+US-2016-135720,FM-14380,Aurora,Colorado,West,Consumer,Office Supplies,Storage,OFF-ST-10001963,Tennsco Regal Shelving Units,243.384,-51.7191,Yes
+US-2016-135720,FM-14380,Aurora,Colorado,West,Consumer,Technology,Accessories,TEC-AC-10001267,Imation 32GB Pocket Pro USB 3.0 Flash Drive - 32 GB - Black - 1 P ...,119.8,29.95,Yes
+US-2016-135720,FM-14380,Aurora,Colorado,West,Consumer,Technology,Phones,TEC-PH-10002103,Jabra SPEAK 410,300.768,30.0768,Yes
+CA-2016-115917,RB-19465,Vallejo,California,West,Home Office,Furniture,Furnishings,FUR-FU-10000576,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,1049.2,272.792,Yes
+CA-2016-115917,RB-19465,Vallejo,California,West,Home Office,Office Supplies,Binders,OFF-BI-10004728,Wilson Jones Turn Tabs Binder Tool for Ring Binders,15.424,5.0128,Yes
+CA-2014-153150,Dl-13600,Seattle,Washington,West,Corporate,Office Supplies,Binders,OFF-BI-10003355,Cardinal Holdit Business Card Pockets,19.92,6.972,Yes
+CA-2015-144267,NZ-18565,San Francisco,California,West,Home Office,Furniture,Chairs,FUR-CH-10002335,Hon GuestStacker Chair,544.008,40.8006,Yes
+CA-2015-144267,NZ-18565,San Francisco,California,West,Home Office,Office Supplies,Paper,OFF-PA-10000157,Xerox 191,59.94,28.1718,Yes
+CA-2015-144267,NZ-18565,San Francisco,California,West,Home Office,Office Supplies,Paper,OFF-PA-10001947,Xerox 1974,23.92,11.7208,Yes
+CA-2015-144267,NZ-18565,San Francisco,California,West,Home Office,Office Supplies,Paper,OFF-PA-10003657,Xerox 1927,4.28,1.926,Yes
+CA-2015-101910,CD-11920,Lake Elsinore,California,West,Consumer,Furniture,Chairs,FUR-CH-10002647,"Situations Contoured Folding Chairs, 4/Set",283.92,17.745,Yes
+CA-2016-116736,CC-12430,Concord,New Hampshire,East,Home Office,Furniture,Furnishings,FUR-FU-10004017,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",322.59,64.518,Yes
+CA-2016-116736,CC-12430,Concord,New Hampshire,East,Home Office,Technology,Accessories,TEC-AC-10003628,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,29.99,13.1956,Yes
+CA-2016-116736,CC-12430,Concord,New Hampshire,East,Home Office,Technology,Accessories,TEC-AC-10002049,Logitech G19 Programmable Gaming Keyboard,371.97,66.9546,Yes
+CA-2015-143602,JS-15595,Los Angeles,California,West,Corporate,Office Supplies,Binders,OFF-BI-10002071,Fellowes Black Plastic Comb Bindings,13.944,4.5318,Yes
+CA-2016-130477,LC-17140,Los Angeles,California,West,Consumer,Office Supplies,Paper,OFF-PA-10002947,Xerox 1923,20.04,9.6192,Yes
+CA-2016-130477,LC-17140,Los Angeles,California,West,Consumer,Office Supplies,Storage,OFF-ST-10002583,Fellowes Neat Ideas Storage Cubes,64.96,2.5984,Yes
+CA-2016-130477,LC-17140,Los Angeles,California,West,Consumer,Office Supplies,Paper,OFF-PA-10000019,Xerox 1931,12.96,6.2208,Yes
+CA-2017-102519,BM-11650,Milwaukee,Wisconsin,Central,Corporate,Furniture,Furnishings,FUR-FU-10004091,"Howard Miller 13"" Diameter Goldtone Round Wall Clock",46.94,19.2454,Yes
+CA-2017-102519,BM-11650,Milwaukee,Wisconsin,Central,Corporate,Technology,Accessories,TEC-AC-10001772,Memorex Mini Travel Drive 16 GB USB 2.0 Flash Drive,143.73,56.0547,Yes
+CA-2017-136539,GH-14665,Round Rock,Texas,Central,Consumer,Office Supplies,Art,OFF-AR-10001958,Stanley Bostitch Contemporary Electric Pencil Sharpeners,27.168,2.7168,Yes
+CA-2017-136539,GH-14665,Round Rock,Texas,Central,Consumer,Furniture,Bookcases,FUR-BO-10004709,"Bush Westfield Collection Bookcases, Medium Cherry Finish",78.8528,-11.596,Yes
+US-2017-103247,PO-19195,New York City,New York,East,Home Office,Technology,Phones,TEC-PH-10003555,Motorola HK250 Universal Bluetooth Headset,160.93,3.2186,Yes
+US-2017-103247,PO-19195,New York City,New York,East,Home Office,Office Supplies,Binders,OFF-BI-10004492,Tuf-Vin Binders,75.792,25.5798,Yes
+CA-2016-105585,RF-19735,San Jose,California,West,Consumer,Office Supplies,Fasteners,OFF-FA-10002983,Advantus SlideClip Paper Clips,10.23,4.9104,Yes
+CA-2016-105585,RF-19735,San Jose,California,West,Consumer,Office Supplies,Paper,OFF-PA-10003625,Xerox 1979,154.9,69.705,Yes
+US-2015-126214,JS-15880,Seattle,Washington,West,Consumer,Furniture,Tables,FUR-TA-10003748,Bevis 36 x 72 Conference Tables,1618.37,356.0414,Yes
+US-2015-126214,JS-15880,Seattle,Washington,West,Consumer,Technology,Accessories,TEC-AC-10003198,Enermax Acrylux Wireless Keyboard,99.6,36.852,Yes
+CA-2016-126529,DE-13255,Springfield,Ohio,East,Home Office,Office Supplies,Paper,OFF-PA-10001166,Xerox 2,15.552,5.4432,Yes
+CA-2016-126529,DE-13255,Springfield,Ohio,East,Home Office,Office Supplies,Paper,OFF-PA-10003656,Xerox 1935,63.312,20.5764,Yes
+CA-2016-126529,DE-13255,Springfield,Ohio,East,Home Office,Technology,Phones,TEC-PH-10000148,Cyber Acoustics AC-202b Speech Recognition Stereo Headset,15.588,-9.8724,Yes
+CA-2016-152814,EH-14005,Denver,Colorado,West,Home Office,Office Supplies,Paper,OFF-PA-10001970,Xerox 1881,29.472,9.9468,Yes
+CA-2015-143490,NP-18325,San Diego,California,West,Consumer,Office Supplies,Art,OFF-AR-10002952,Stanley Contemporary Battery Pencil Sharpeners,120.15,33.642,Yes
+CA-2015-143490,NP-18325,San Diego,California,West,Consumer,Technology,Phones,TEC-PH-10000576,AT&T 1080 Corded phone,219.184,19.1786,Yes
+CA-2014-159338,NS-18640,Los Angeles,California,West,Corporate,Furniture,Tables,FUR-TA-10004147,Hon 4060 Series Tables,447.84,11.196,Yes
+CA-2016-112340,NM-18520,Riverside,California,West,Consumer,Office Supplies,Paper,OFF-PA-10001892,"Rediform Wirebound ""Phone Memo"" Message Book, 11 x 5-3/4",22.92,11.2308,Yes
+CA-2017-140585,RA-19915,Encinitas,California,West,Consumer,Office Supplies,Binders,OFF-BI-10003364,Binding Machine Supplies,46.672,16.3352,Yes
+CA-2017-140585,RA-19915,Encinitas,California,West,Consumer,Furniture,Bookcases,FUR-BO-10002206,"Bush Saratoga Collection 5-Shelf Bookcase, Hanover Cherry, *Special Order",119.833,-12.6882,Yes
+CA-2017-140585,RA-19915,Encinitas,California,West,Consumer,Technology,Accessories,TEC-AC-10003610,Logitech Illuminated - Keyboard,119.98,57.5904,Yes
+CA-2014-126522,LT-16765,Escondido,California,West,Consumer,Office Supplies,Art,OFF-AR-10004042,"BOSTON Model 1800 Electric Pencil Sharpeners, Putty/Woodgrain",53.94,15.6426,Yes
+CA-2014-127131,HR-14830,Seattle,Washington,West,Corporate,Office Supplies,Binders,OFF-BI-10004656,Peel & Stick Add-On Corner Pockets,12.096,4.2336,Yes
+CA-2014-127131,HR-14830,Seattle,Washington,West,Corporate,Office Supplies,Storage,OFF-ST-10002344,"Carina 42""Hx23 3/4""W Media Storage Unit",485.88,9.7176,Yes
+CA-2014-127131,HR-14830,Seattle,Washington,West,Corporate,Office Supplies,Paper,OFF-PA-10001800,Xerox 220,25.92,12.4416,Yes
+CA-2014-127131,HR-14830,Seattle,Washington,West,Corporate,Office Supplies,Storage,OFF-ST-10000036,"Recycled Data-Pak for Archival Bound Computer Printouts, 12-1/2 x 12-1/2 x 16",197.58,53.3466,Yes
+CA-2017-117212,BT-11530,Los Angeles,California,West,Home Office,Office Supplies,Appliances,OFF-AP-10004532,Kensington 6 Outlet Guardian Standard Surge Protector,81.92,22.1184,Yes
+CA-2017-117212,BT-11530,Los Angeles,California,West,Home Office,Technology,Phones,TEC-PH-10004447,Toshiba IPT2010-SD IP Telephone,889.536,66.7152,Yes
+CA-2017-117212,BT-11530,Los Angeles,California,West,Home Office,Furniture,Chairs,FUR-CH-10003973,GuestStacker Chair with Chrome Finish Legs,892.224,89.2224,Yes
+CA-2017-117212,BT-11530,Los Angeles,California,West,Home Office,Office Supplies,Paper,OFF-PA-10001970,Xerox 1908,223.92,109.7208,Yes
+CA-2017-117212,BT-11530,Los Angeles,California,West,Home Office,Office Supplies,Paper,OFF-PA-10000682,Xerox 1924,23.12,11.3288,Yes
+CA-2016-114727,LS-16945,Denver,Colorado,West,Corporate,Furniture,Chairs,FUR-CH-10002335,Hon GuestStacker Chair,544.008,40.8006,Yes
+CA-2016-114727,LS-16945,Denver,Colorado,West,Corporate,Office Supplies,Binders,OFF-BI-10004967,Round Ring Binders,1.872,-1.4352,Yes
+CA-2016-114727,LS-16945,Denver,Colorado,West,Corporate,Furniture,Chairs,FUR-CH-10002331,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,854.352,10.6794,Yes
+CA-2016-114727,LS-16945,Denver,Colorado,West,Corporate,Office Supplies,Storage,OFF-ST-10002292,"Sauder Facets Collection Locker/File Cabinet, Sky Alder Finish",593.568,0,Yes
+CA-2016-114727,LS-16945,Denver,Colorado,West,Corporate,Office Supplies,Storage,OFF-ST-10000689,"Fellowes Strictly Business Drawer File, Letter/Legal Size",338.04,-33.804,Yes
+US-2017-118087,SP-20620,Philadelphia,Pennsylvania,East,Corporate,Furniture,Chairs,FUR-CH-10004860,Global Low Back Tilter Chair,141.372,-48.4704,Yes
+US-2017-118087,SP-20620,Philadelphia,Pennsylvania,East,Corporate,Office Supplies,Binders,OFF-BI-10002432,Wilson Jones Standard D-Ring Binders,3.036,-2.3276,Yes
+US-2017-118087,SP-20620,Philadelphia,Pennsylvania,East,Corporate,Office Supplies,Binders,OFF-BI-10000069,"GBC Prepunched Paper, 19-Hole, for Binding Systems, 24-lb",4.503,-3.6024,Yes
+US-2017-118087,SP-20620,Philadelphia,Pennsylvania,East,Corporate,Office Supplies,Art,OFF-AR-10003602,"Quartet Omega Colored Chalk, 12/Pack",4.672,1.5768,Yes
+US-2017-118087,SP-20620,Philadelphia,Pennsylvania,East,Corporate,Technology,Accessories,TEC-AC-10004469,Microsoft Sculpt Comfort Mouse,95.88,28.764,Yes
+US-2017-118087,SP-20620,Philadelphia,Pennsylvania,East,Corporate,Furniture,Furnishings,FUR-FU-10001867,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",17.024,1.7024,Yes
+US-2017-118087,SP-20620,Philadelphia,Pennsylvania,East,Corporate,Technology,Accessories,TEC-AC-10003174,Plantronics S12 Corded Telephone Headset System,258.696,64.674,Yes
+US-2017-118087,SP-20620,Philadelphia,Pennsylvania,East,Corporate,Technology,Phones,TEC-PH-10002200,Samsung Galaxy Note 2,1931.958,-386.3916,Yes
+CA-2014-127012,GM-14680,Seattle,Washington,West,Consumer,Furniture,Furnishings,FUR-FU-10003691,"Eldon Image Series Desk Accessories, Ebony",12.35,5.434,Yes
+CA-2014-127012,GM-14680,Seattle,Washington,West,Consumer,Office Supplies,Art,OFF-AR-10003903,Sanford 52201 APSCO Electric Pencil Sharpener,40.97,10.6522,Yes
+CA-2014-127012,GM-14680,Seattle,Washington,West,Consumer,Office Supplies,Fasteners,OFF-FA-10004854,"Vinyl Coated Wire Paper Clips in Organizer Box, 800/Box",22.96,10.7912,Yes
+CA-2017-115427,EB-13975,Fairfield,California,West,Corporate,Office Supplies,Binders,OFF-BI-10002103,"Cardinal Slant-D Ring Binder, Heavy Gauge Vinyl",13.904,4.5188,Yes
+CA-2017-115427,EB-13975,Fairfield,California,West,Corporate,Office Supplies,Binders,OFF-BI-10004632,GBC Binding covers,20.72,6.475,Yes
+CA-2016-145919,HG-14965,Los Angeles,California,West,Corporate,Office Supplies,Paper,OFF-PA-10003072,"Eureka Recycled Copy Paper 8 1/2"" x 11"", Ream",38.88,18.6624,Yes
+CA-2016-145919,HG-14965,Los Angeles,California,West,Corporate,Furniture,Furnishings,FUR-FU-10004960,"Seth Thomas 12"" Clock w/ Goldtone Case",183.84,62.5056,Yes
+CA-2016-145919,HG-14965,Los Angeles,California,West,Corporate,Office Supplies,Supplies,OFF-SU-10003505,Premier Electric Letter Opener,579.3,28.965,Yes
+CA-2014-160773,LW-16825,Deltona,Florida,South,Corporate,Technology,Phones,TEC-PH-10004586,Wilson SignalBoost 841262 DB PRO Amplifier Kit,575.92,71.99,Yes
+CA-2014-160773,LW-16825,Deltona,Florida,South,Corporate,Office Supplies,Binders,OFF-BI-10000546,Avery Durable Binders,5.184,-3.6288,Yes
+CA-2014-126361,VD-21670,Pleasant Grove,Utah,West,Consumer,Office Supplies,Appliances,OFF-AP-10003590,Hoover WindTunnel Plus Canister Vacuum,1089.75,305.13,Yes
+CA-2014-126361,VD-21670,Pleasant Grove,Utah,West,Consumer,Office Supplies,Paper,OFF-PA-10000806,Xerox 1934,447.84,219.4416,Yes
+CA-2014-126361,VD-21670,Pleasant Grove,Utah,West,Consumer,Office Supplies,Art,OFF-AR-10000896,Newell 329,16.4,4.264,Yes
+CA-2014-126361,VD-21670,Pleasant Grove,Utah,West,Consumer,Technology,Phones,TEC-PH-10002310,Panasonic KX T7731-B Digital phone,399.96,34.9965,Yes
+CA-2014-126361,VD-21670,Pleasant Grove,Utah,West,Consumer,Office Supplies,Storage,OFF-ST-10002289,"Safco Wire Cube Shelving System, For Use as 4 or 5 14"" Cubes, Black",158.9,7.945,Yes
+CA-2014-126361,VD-21670,Pleasant Grove,Utah,West,Consumer,Office Supplies,Binders,OFF-BI-10002852,Ibico Standard Transparent Covers,13.184,4.7792,Yes
+CA-2016-159212,KM-16375,Salem,Virginia,South,Home Office,Technology,Phones,TEC-PH-10003988,"LF Elite 3D Dazzle Designer Hard Case Cover, Lf Stylus Pen and Wiper For Apple Iphone 5c Mini Lite",21.8,6.104,Yes
+CA-2016-159212,KM-16375,Salem,Virginia,South,Home Office,Office Supplies,Envelopes,OFF-EN-10002230,Airmail Envelopes,251.79,118.3413,Yes
+CA-2017-115994,BT-11305,Costa Mesa,California,West,Home Office,Technology,Accessories,TEC-AC-10000580,Logitech G13 Programmable Gameboard with LCD Display,239.97,26.3967,Yes
+CA-2017-115994,BT-11305,Costa Mesa,California,West,Home Office,Furniture,Furnishings,FUR-FU-10003976,"DAX Executive Solid Wood Document Frame, Desktop or Hang, Mahogany, 5 x 7",37.74,12.8316,Yes
+CA-2015-139731,JE-15745,Amarillo,Texas,Central,Consumer,Technology,Accessories,TEC-AC-10004975,Plantronics Audio 995 Wireless Stereo Headset,263.88,42.8805,Yes
+CA-2015-139731,JE-15745,Amarillo,Texas,Central,Consumer,Furniture,Chairs,FUR-CH-10002024,HON 5400 Series Task Chairs for Big and Tall,2453.43,-350.49,Yes
+CA-2015-119907,LC-17140,Seattle,Washington,West,Consumer,Office Supplies,Binders,OFF-BI-10001765,Wilson Jones Heavy-Duty Casebound Ring Binders with Metal Hinges,55.424,19.3984,Yes
+US-2016-108455,MK-18160,San Francisco,California,West,Consumer,Office Supplies,Paper,OFF-PA-10002262,Xerox 192,25.92,12.4416,Yes
+US-2016-108455,MK-18160,San Francisco,California,West,Consumer,Office Supplies,Paper,OFF-PA-10002464,HP Office Recycled Paper (20Lb. and 87 Bright),40.46,19.8254,Yes
+US-2016-108455,MK-18160,San Francisco,California,West,Consumer,Office Supplies,Storage,OFF-ST-10002214,X-Rack File for Hanging Folders,33.87,8.8062,Yes
+CA-2017-108294,LS-16975,Omaha,Nebraska,Central,Home Office,Office Supplies,Binders,OFF-BI-10004965,Ibico Covers for Plastic or Wire Binding Elements,34.5,15.525,Yes
+CA-2016-159345,IG-15085,San Diego,California,West,Consumer,Office Supplies,Paper,OFF-PA-10000806,Xerox 1934,111.96,54.8604,Yes
+CA-2014-156349,ML-17395,Los Angeles,California,West,Corporate,Furniture,Bookcases,FUR-BO-10000362,Sauder Inglewood Library Bookcases,290.666,27.3568,Yes
+CA-2014-156349,ML-17395,Los Angeles,California,West,Corporate,Technology,Phones,TEC-PH-10000441,VTech DS6151,201.584,20.1584,Yes
+CA-2014-156349,ML-17395,Los Angeles,California,West,Corporate,Technology,Phones,TEC-PH-10002726,netTALK DUO VoIP Telephone Service,83.984,31.494,Yes
+CA-2014-135699,HH-15010,San Francisco,California,West,Corporate,Office Supplies,Paper,OFF-PA-10004475,Xerox 1940,109.92,53.8608,Yes
+CA-2014-135699,HH-15010,San Francisco,California,West,Corporate,Office Supplies,Paper,OFF-PA-10003001,Xerox 1986,13.36,6.4128,Yes
+CA-2014-135657,SC-20725,Seattle,Washington,West,Consumer,Furniture,Tables,FUR-TA-10004086,KI Adjustable-Height Table,515.88,113.4936,Yes
+CA-2017-123491,JK-15205,San Francisco,California,West,Consumer,Office Supplies,Labels,OFF-LA-10003077,Avery 500,43.86,20.6142,Yes
+CA-2017-123491,JK-15205,San Francisco,California,West,Consumer,Technology,Phones,TEC-PH-10003505,Geemarc AmpliPOWER60,148.48,16.704,Yes
+CA-2017-123491,JK-15205,San Francisco,California,West,Consumer,Office Supplies,Paper,OFF-PA-10003424,"""While you Were Out"" Message Book, One Form per Page",7.42,3.71,Yes
+CA-2017-123491,JK-15205,San Francisco,California,West,Consumer,Furniture,Chairs,FUR-CH-10003061,"Global Leather Task Chair, Black",71.992,-0.8999,Yes
+CA-2017-123491,JK-15205,San Francisco,California,West,Consumer,Office Supplies,Art,OFF-AR-10003514,4009 Highlighters by Sanford,19.9,6.567,Yes
+CA-2017-123491,JK-15205,San Francisco,California,West,Consumer,Office Supplies,Appliances,OFF-AP-10002684,"Acco 7-Outlet Masterpiece Power Center, Wihtout Fax/Phone Line Protection",1702.12,510.636,Yes
+US-2016-131149,LH-17155,Dallas,Texas,Central,Consumer,Office Supplies,Storage,OFF-ST-10000689,"Fellowes Strictly Business Drawer File, Letter/Legal Size",338.04,-33.804,Yes
+US-2016-131149,LH-17155,Dallas,Texas,Central,Consumer,Office Supplies,Art,OFF-AR-10002135,Boston Heavy-Duty Trimline Electric Pencil Sharpeners,154.24,17.352,Yes
+CA-2015-130785,AG-10900,San Diego,California,West,Consumer,Furniture,Bookcases,FUR-BO-10000330,"Sauder Camden County Barrister Bookcase, Planked Cherry Finish",411.332,-4.8392,Yes
+CA-2015-130785,AG-10900,San Diego,California,West,Consumer,Office Supplies,Binders,OFF-BI-10001900,"DXL Angle-View Binders with Locking Rings, Black",28.752,9.7038,Yes
+CA-2015-130785,AG-10900,San Diego,California,West,Consumer,Furniture,Bookcases,FUR-BO-10003159,"Sauder Camden County Collection Libraries, Planked Cherry Finish",293.199,-20.6964,Yes
+CA-2014-103373,BS-11755,Cleveland,Ohio,East,Consumer,Technology,Phones,TEC-PH-10002885,Apple iPhone 5,779.796,-168.9558,Yes
+CA-2017-142888,BP-11230,Spokane,Washington,West,Consumer,Furniture,Tables,FUR-TA-10004767,Safco Drafting Table,70.98,20.5842,Yes
+CA-2017-144064,CP-12085,Quincy,Illinois,Central,Corporate,Office Supplies,Labels,OFF-LA-10004544,Avery 505,47.36,17.76,Yes
+CA-2017-144064,CP-12085,Quincy,Illinois,Central,Corporate,Office Supplies,Storage,OFF-ST-10004507,Advantus Rolling Storage Box,27.44,2.401,Yes
+CA-2017-144064,CP-12085,Quincy,Illinois,Central,Corporate,Office Supplies,Binders,OFF-BI-10002012,Wilson Jones Easy Flow II Sheet Lifters,3.24,-5.184,Yes
+CA-2014-148950,JD-16015,Chicago,Illinois,Central,Consumer,Office Supplies,Binders,OFF-BI-10001249,Avery Heavy-Duty EZD View Binder with Locking Rings,5.104,-8.6768,Yes
+CA-2014-148950,JD-16015,Chicago,Illinois,Central,Consumer,Office Supplies,Fasteners,OFF-FA-10003059,Assorted Color Push Pins,2.896,0.4706,Yes
+CA-2014-148950,JD-16015,Chicago,Illinois,Central,Consumer,Technology,Accessories,TEC-AC-10002718,Belkin Standard 104 key USB Keyboard,35.016,-2.1885,Yes
+CA-2014-164721,LW-16825,Brentwood,California,West,Corporate,Office Supplies,Appliances,OFF-AP-10000240,Belkin F9G930V10-GRY 9 Outlet Surge,320.88,93.0552,Yes
+CA-2014-164721,LW-16825,Brentwood,California,West,Corporate,Furniture,Furnishings,FUR-FU-10001940,Staple-based wall hangings,23.88,10.5072,Yes
+CA-2014-164721,LW-16825,Brentwood,California,West,Corporate,Office Supplies,Paper,OFF-PA-10000575,"Wirebound Message Books, Four 2 3/4 x 5 White Forms per Page",26.76,12.3096,Yes
+CA-2015-155761,SC-20800,Houston,Texas,Central,Consumer,Technology,Accessories,TEC-AC-10001606,Logitech Wireless Performance Mouse MX for PC and Mac,159.984,35.9964,Yes
+CA-2015-155761,SC-20800,Houston,Texas,Central,Consumer,Office Supplies,Storage,OFF-ST-10000943,Eldon ProFile File 'N Store Portable File Tub Letter/Legal Size Black,46.344,4.6344,Yes
+CA-2015-119214,CW-11905,Bozeman,Montana,West,Home Office,Office Supplies,Paper,OFF-PA-10002893,"Wirebound Service Call Books, 5 1/2"" x 4""",29.04,13.9392,Yes
+CA-2015-119214,CW-11905,Bozeman,Montana,West,Home Office,Office Supplies,Labels,OFF-LA-10003077,Avery 500,14.62,6.8714,Yes
+CA-2017-122504,DB-13270,Brentwood,California,West,Home Office,Technology,Accessories,TEC-AC-10003289,Anker Ultra-Slim Mini Bluetooth 3.0 Wireless Keyboard,59.97,13.7931,Yes
+CA-2017-122504,DB-13270,Brentwood,California,West,Home Office,Technology,Phones,TEC-PH-10002468,"Plantronics CS 50-USB - headset - Convertible, Monaural",761.544,66.6351,Yes
+CA-2017-166142,MM-17260,Wilmington,Delaware,East,Consumer,Office Supplies,Binders,OFF-BI-10004094,GBC Standard Plastic Binding Systems Combs,26.55,13.0095,Yes
+CA-2017-166142,MM-17260,Wilmington,Delaware,East,Consumer,Furniture,Tables,FUR-TA-10004607,Hon 2111 Invitation Series Straight Table,310.443,-48.7839,Yes
+CA-2017-124401,RD-19900,Portland,Oregon,West,Consumer,Office Supplies,Storage,OFF-ST-10000649,Hanging Personal Folder File,37.68,2.355,Yes
+CA-2017-124401,RD-19900,Portland,Oregon,West,Consumer,Technology,Accessories,TEC-AC-10002926,Logitech Wireless Marathon Mouse M705,279.944,80.4839,Yes
+CA-2015-164882,SG-20080,Redlands,California,West,Consumer,Office Supplies,Paper,OFF-PA-10000157,Xerox 191,19.98,9.3906,Yes
+CA-2015-164882,SG-20080,Redlands,California,West,Consumer,Office Supplies,Binders,OFF-BI-10004519,GBC DocuBind P100 Manual Binding Machine,398.352,124.485,Yes
+CA-2015-164882,SG-20080,Redlands,California,West,Consumer,Office Supplies,Art,OFF-AR-10004272,Newell 308,5.04,1.26,Yes
+CA-2015-164882,SG-20080,Redlands,California,West,Consumer,Office Supplies,Fasteners,OFF-FA-10000585,OIC Bulk Pack Metal Binder Clips,17.45,8.027,Yes
+CA-2015-164882,SG-20080,Redlands,California,West,Consumer,Furniture,Chairs,FUR-CH-10004218,"Global Fabric Manager's Chair, Dark Gray",323.136,20.196,Yes
+CA-2015-164882,SG-20080,Redlands,California,West,Consumer,Office Supplies,Supplies,OFF-SU-10004231,Acme Tagit Stainless Steel Antibacterial Scissors,29.7,8.019,Yes
+CA-2015-164882,SG-20080,Redlands,California,West,Consumer,Technology,Phones,TEC-PH-10001578,Polycom SoundStation2 EX Conference phone,1295.84,145.782,Yes
+CA-2015-164882,SG-20080,Redlands,California,West,Consumer,Office Supplies,Storage,OFF-ST-10003638,Mobile Personal File Cube,46.84,12.6468,Yes
+CA-2015-164882,SG-20080,Redlands,California,West,Consumer,Furniture,Bookcases,FUR-BO-10002213,DMI Eclipse Executive Suite Bookcases,425.833,20.0392,Yes
+US-2016-152051,TS-21160,York,Pennsylvania,East,Corporate,Furniture,Chairs,FUR-CH-10002965,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",422.058,-18.0882,Yes
+US-2016-152051,TS-21160,York,Pennsylvania,East,Corporate,Office Supplies,Binders,OFF-BI-10004781,GBC Wire Binding Strips,38.088,-27.9312,Yes
+US-2016-152051,TS-21160,York,Pennsylvania,East,Corporate,Office Supplies,Storage,OFF-ST-10001713,"Gould Plastics 9-Pocket Panel Bin, 18-3/8w x 5-1/4d x 20-1/2h, Black",254.352,-50.8704,Yes
+CA-2016-136483,AG-10390,Knoxville,Tennessee,South,Consumer,Office Supplies,Art,OFF-AR-10000940,Newell 343,4.704,0.4116,Yes
+CA-2017-103380,BF-11005,Pasadena,California,West,Home Office,Office Supplies,Storage,OFF-ST-10003442,Eldon Portable Mobile Manager,56.56,15.2712,Yes
+CA-2017-103380,BF-11005,Pasadena,California,West,Home Office,Office Supplies,Art,OFF-AR-10003856,Newell 344,5.56,1.4456,Yes
+CA-2017-103380,BF-11005,Pasadena,California,West,Home Office,Office Supplies,Fasteners,OFF-FA-10004248,Advantus T-Pin Paper Clips,9.02,3.5178,Yes
+CA-2017-103380,BF-11005,Pasadena,California,West,Home Office,Office Supplies,Appliances,OFF-AP-10001492,"Acco Six-Outlet Power Strip, 4' Cord Length",8.62,2.2412,Yes
+CA-2017-103380,BF-11005,Pasadena,California,West,Home Office,Technology,Phones,TEC-PH-10004165,Mitel MiVoice 5330e IP Phone,659.976,49.4982,Yes
+CA-2015-116092,JM-16195,Los Angeles,California,West,Consumer,Office Supplies,Paper,OFF-PA-10004285,Xerox 1959,13.36,6.4128,Yes
+CA-2015-116092,JM-16195,Los Angeles,California,West,Consumer,Office Supplies,Binders,OFF-BI-10001628,"Acco Data Flex Cable Posts For Top & Bottom Load Binders, 6"" Capacity",41.72,13.0375,Yes
+CA-2015-116092,JM-16195,Los Angeles,California,West,Consumer,Office Supplies,Binders,OFF-BI-10000546,Avery Durable Binders,11.52,4.176,Yes
+CA-2015-116092,JM-16195,Los Angeles,California,West,Consumer,Office Supplies,Appliances,OFF-AP-10001391,Kensington 6 Outlet MasterPiece HOMEOFFICE Power Control Center,541.44,157.0176,Yes
+CA-2015-116092,JM-16195,Los Angeles,California,West,Consumer,Office Supplies,Paper,OFF-PA-10000477,Xerox 22,19.44,9.3312,Yes
+CA-2015-149342,TS-21160,Columbus,Georgia,South,Corporate,Technology,Phones,TEC-PH-10001557,Pyle PMP37LED,287.97,77.7519,Yes
+CA-2015-149342,TS-21160,Columbus,Georgia,South,Corporate,Furniture,Furnishings,FUR-FU-10002937,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",595.38,297.69,Yes
+CA-2015-149342,TS-21160,Columbus,Georgia,South,Corporate,Office Supplies,Paper,OFF-PA-10001166,Xerox 2,12.96,6.2208,Yes
+CA-2017-165491,HW-14935,Seattle,Washington,West,Corporate,Technology,Accessories,TEC-AC-10000358,Imation Secure Drive + Hardware Encrypted USB flash drive - 16 GB,265.93,63.8232,Yes
+CA-2017-140053,CA-12265,Farmington,New Mexico,West,Consumer,Furniture,Furnishings,FUR-FU-10003708,"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",545.85,114.6285,Yes
+CA-2017-131618,LS-17200,Skokie,Illinois,Central,Corporate,Office Supplies,Paper,OFF-PA-10001892,"Rediform Wirebound ""Phone Memo"" Message Book, 11 x 5-3/4",12.224,4.4312,Yes
+CA-2017-131618,LS-17200,Skokie,Illinois,Central,Corporate,Office Supplies,Binders,OFF-BI-10000546,Avery Durable Binders,2.304,-3.5712,Yes
+CA-2017-131618,LS-17200,Skokie,Illinois,Central,Corporate,Office Supplies,Binders,OFF-BI-10001294,Fellowes Binding Cases,9.36,-16.38,Yes
+CA-2015-143238,LO-17170,La Quinta,California,West,Corporate,Technology,Accessories,TEC-AC-10003499,Memorex Mini Travel Drive 8 GB USB 2.0 Flash Drive,46.32,18.0648,Yes
+US-2015-128090,JM-15865,Phoenix,Arizona,West,Consumer,Office Supplies,Art,OFF-AR-10002255,Newell 346,2.304,0.2592,Yes
+US-2015-128090,JM-15865,Phoenix,Arizona,West,Consumer,Technology,Phones,TEC-PH-10002624,Samsung Galaxy S4 Mini,1879.96,211.4955,Yes
+US-2015-128090,JM-15865,Phoenix,Arizona,West,Consumer,Office Supplies,Paper,OFF-PA-10001878,Xerox 1891,313.024,105.6456,Yes
+US-2015-128090,JM-15865,Phoenix,Arizona,West,Consumer,Office Supplies,Labels,OFF-LA-10000452,Avery 488,5.04,1.764,Yes
+CA-2017-145128,SM-20320,Lafayette,Indiana,Central,Home Office,Furniture,Furnishings,FUR-FU-10000293,Eldon Antistatic Chair Mats for Low to Medium Pile Carpets,526.45,31.587,Yes
+CA-2014-164861,MC-17635,Saint Louis,Missouri,Central,Corporate,Office Supplies,Paper,OFF-PA-10001972,Xerox 214,25.92,12.4416,Yes
+CA-2014-126403,RR-19525,Lowell,Massachusetts,East,Corporate,Office Supplies,Paper,OFF-PA-10001144,Xerox 1913,166.44,79.8912,Yes
+CA-2014-126403,RR-19525,Lowell,Massachusetts,East,Corporate,Furniture,Chairs,FUR-CH-10003761,Global Italian Leather Office Chair,785.88,212.1876,Yes
+CA-2014-126403,RR-19525,Lowell,Massachusetts,East,Corporate,Office Supplies,Paper,OFF-PA-10004665,Advantus Motivational Note Cards,26.2,12.838,Yes
+CA-2014-126403,RR-19525,Lowell,Massachusetts,East,Corporate,Office Supplies,Storage,OFF-ST-10000078,Tennsco 6- and 18-Compartment Lockers,1325.85,238.653,Yes
+CA-2017-137085,CT-11995,Los Angeles,California,West,Consumer,Office Supplies,Binders,OFF-BI-10000632,Satellite Sectional Post Binders,312.552,101.5794,Yes
+CA-2015-153220,YC-21895,Los Angeles,California,West,Corporate,Office Supplies,Paper,OFF-PA-10003016,"Adams ""While You Were Out"" Message Pads",15.7,7.065,Yes
+CA-2017-112865,BH-11710,Philadelphia,Pennsylvania,East,Consumer,Technology,Accessories,TEC-AC-10000387,KeyTronic KT800P2 - Keyboard - Black,36.048,-0.9012,Yes
+CA-2017-138163,XP-21865,Everett,Massachusetts,East,Consumer,Office Supplies,Art,OFF-AR-10001958,Stanley Bostitch Contemporary Electric Pencil Sharpeners,50.94,14.2632,Yes
+US-2017-103828,JK-15370,San Francisco,California,West,Consumer,Office Supplies,Storage,OFF-ST-10001325,Sterilite Officeware Hinged File Box,31.44,8.4888,Yes
+US-2017-103828,JK-15370,San Francisco,California,West,Consumer,Office Supplies,Appliances,OFF-AP-10004249,Staple holder,83.79,22.6233,Yes
+US-2017-103828,JK-15370,San Francisco,California,West,Consumer,Office Supplies,Art,OFF-AR-10000588,Newell 345,59.52,15.4752,Yes
+US-2017-103828,JK-15370,San Francisco,California,West,Consumer,Office Supplies,Supplies,OFF-SU-10000946,Staple remover,31.92,9.2568,Yes
+CA-2015-168564,TT-21220,San Francisco,California,West,Consumer,Office Supplies,Binders,OFF-BI-10004970,"ACCOHIDE 3-Ring Binder, Blue, 1""",6.608,2.2302,Yes
+CA-2015-168564,TT-21220,San Francisco,California,West,Consumer,Office Supplies,Binders,OFF-BI-10002557,Presstex Flexible Ring Binders,7.28,2.73,Yes
+CA-2015-168564,TT-21220,San Francisco,California,West,Consumer,Furniture,Chairs,FUR-CH-10000785,Global Ergonomic Managers Chair,144.784,10.8588,Yes
+CA-2017-169859,MP-18175,San Diego,California,West,Home Office,Furniture,Furnishings,FUR-FU-10004963,"Eldon 400 Class Desk Accessories, Black Carbon",26.25,11.025,Yes
+CA-2017-169859,MP-18175,San Diego,California,West,Home Office,Office Supplies,Binders,OFF-BI-10000174,"Wilson Jones Clip & Carry Folder Binder Tool for Ring Binders, Clear",64.96,22.736,Yes
+CA-2017-169859,MP-18175,San Diego,California,West,Home Office,Office Supplies,Envelopes,OFF-EN-10000461,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",43.7,20.539,Yes
+CA-2017-137428,AY-10555,Oceanside,California,West,Corporate,Furniture,Chairs,FUR-CH-10002774,"Global Deluxe Stacking Chair, Gray",81.568,9.1764,Yes
+CA-2017-137428,AY-10555,Oceanside,California,West,Corporate,Furniture,Chairs,FUR-CH-10003817,"Global Value Steno Chair, Gray",97.184,6.074,Yes
+CA-2017-137428,AY-10555,Oceanside,California,West,Corporate,Office Supplies,Binders,OFF-BI-10002949,Prestige Round Ring Binders,24.32,8.208,Yes
+CA-2017-137428,AY-10555,Oceanside,California,West,Corporate,Furniture,Furnishings,FUR-FU-10002445,"DAX Two-Tone Rosewood/Black Document Frame, Desktop, 5 x 7",18.96,7.584,Yes
+CA-2016-139269,JB-16045,Columbus,Georgia,South,Home Office,Furniture,Furnishings,FUR-FU-10000755,Eldon Expressions Mahogany Wood Desk Collection,24.96,6.24,Yes
+CA-2016-139269,JB-16045,Columbus,Georgia,South,Home Office,Office Supplies,Paper,OFF-PA-10002893,"Wirebound Service Call Books, 5 1/2"" x 4""",19.36,9.2928,Yes
+CA-2016-139269,JB-16045,Columbus,Georgia,South,Home Office,Office Supplies,Storage,OFF-ST-10000689,"Fellowes Strictly Business Drawer File, Letter/Legal Size",1267.65,152.118,Yes
+CA-2015-123568,SC-20095,West Jordan,Utah,West,Consumer,Office Supplies,Fasteners,OFF-FA-10002701,Alliance Rubber Bands,5.04,0.2016,Yes
+CA-2015-123568,SC-20095,West Jordan,Utah,West,Consumer,Office Supplies,Paper,OFF-PA-10001125,Xerox 1988,92.94,41.823,Yes
+CA-2015-123568,SC-20095,West Jordan,Utah,West,Consumer,Furniture,Furnishings,FUR-FU-10004090,"Executive Impressions 14"" Contract Wall Clock",66.69,22.0077,Yes
+CA-2015-123568,SC-20095,West Jordan,Utah,West,Consumer,Office Supplies,Binders,OFF-BI-10001510,Deluxe Heavy-Duty Vinyl Round Ring Binder,91.68,28.65,Yes
+CA-2015-168480,DM-12955,Lincoln Park,Michigan,Central,Corporate,Furniture,Bookcases,FUR-BO-10000468,O'Sullivan 2-Shelf Heavy-Duty Bookcases,194.32,31.0912,Yes
+CA-2015-168480,DM-12955,Lincoln Park,Michigan,Central,Corporate,Office Supplies,Art,OFF-AR-10001044,"BOSTON Ranger #55 Pencil Sharpener, Black",25.99,7.5371,Yes
+US-2016-114293,JH-16180,Gresham,Oregon,West,Consumer,Furniture,Chairs,FUR-CH-10003833,Novimex Fabric Task Chair,195.136,-12.196,Yes
+CA-2017-131492,HH-15010,San Francisco,California,West,Corporate,Office Supplies,Envelopes,OFF-EN-10002973,Ampad #10 Peel & Seel Holiday Envelopes,8.96,4.3008,Yes
+CA-2017-131492,HH-15010,San Francisco,California,West,Corporate,Office Supplies,Labels,OFF-LA-10001641,Avery 518,31.5,15.12,Yes
+CA-2017-131492,HH-15010,San Francisco,California,West,Corporate,Furniture,Furnishings,FUR-FU-10003878,"Linden 10"" Round Wall Clock, Black",30.56,10.3904,Yes
+CA-2017-131492,HH-15010,San Francisco,California,West,Corporate,Furniture,Tables,FUR-TA-10003837,Anderson Hickey Conga Table Tops & Accessories,24.368,-3.3506,Yes
+CA-2016-112123,BH-11710,Newark,Delaware,East,Consumer,Office Supplies,Binders,OFF-BI-10001071,GBC ProClick Punch Binding System,447.86,219.4514,Yes
+CA-2016-112123,BH-11710,Newark,Delaware,East,Consumer,Technology,Phones,TEC-PH-10001557,Pyle PMP37LED,479.95,129.5865,Yes
+CA-2016-112123,BH-11710,Newark,Delaware,East,Consumer,Office Supplies,Paper,OFF-PA-10001977,Xerox 194,166.44,79.8912,Yes
+CA-2017-135692,CV-12805,Fort Worth,Texas,Central,Corporate,Office Supplies,Labels,OFF-LA-10001158,"Avery Address/Shipping Labels for Typewriters, 4"" x 2""",33.12,11.592,Yes
+CA-2017-135692,CV-12805,Fort Worth,Texas,Central,Corporate,Furniture,Bookcases,FUR-BO-10002268,Sauder Barrister Bookcases,220.2656,-42.1096,Yes
+CA-2017-131828,CS-11845,Seattle,Washington,West,Corporate,Furniture,Chairs,FUR-CH-10004495,"Global Leather and Oak Executive Chair, Black",963.136,108.3528,Yes
+CA-2017-131828,CS-11845,Seattle,Washington,West,Corporate,Technology,Phones,TEC-PH-10002923,"Logitech B530 USB Headset - headset - Full size, Binaural",88.776,7.7679,Yes
+CA-2014-123498,TC-20980,Houston,Texas,Central,Corporate,Office Supplies,Binders,OFF-BI-10000632,Satellite Sectional Post Binders,26.046,-44.2782,Yes
+CA-2014-123498,TC-20980,Houston,Texas,Central,Corporate,Office Supplies,Envelopes,OFF-EN-10004773,Staple envelope,74.352,26.9526,Yes
+US-2015-137008,JP-15460,Lakewood,New Jersey,East,Corporate,Office Supplies,Paper,OFF-PA-10001295,Computer Printout Paper with Letter-Trim Perforations,94.85,45.528,Yes
+US-2015-137008,JP-15460,Lakewood,New Jersey,East,Corporate,Office Supplies,Envelopes,OFF-EN-10002500,Globe Weis Peel & Seel First Class Envelopes,51.12,23.004,Yes
+US-2015-137008,JP-15460,Lakewood,New Jersey,East,Corporate,Technology,Accessories,TEC-AC-10000892,NETGEAR N750 Dual Band Wi-Fi Gigabit Router,90,32.4,Yes
+CA-2014-143840,EH-14185,Decatur,Alabama,South,Consumer,Technology,Phones,TEC-PH-10002660,Nortel Networks T7316 E Nt8 B27,135.98,33.995,Yes
+CA-2014-143840,EH-14185,Decatur,Alabama,South,Consumer,Technology,Phones,TEC-PH-10003171,Plantronics Encore H101 Dual Earpieces Headset,44.95,12.586,Yes
+CA-2015-157770,RD-19585,Temecula,California,West,Consumer,Technology,Phones,TEC-PH-10001530,Plantronics Voyager Pro Legend,494.376,49.4376,Yes
+CA-2015-157770,RD-19585,Temecula,California,West,Consumer,Office Supplies,Binders,OFF-BI-10000050,"Angle-D Binders with Locking Rings, Label Holders",29.2,9.855,Yes
+CA-2015-157770,RD-19585,Temecula,California,West,Consumer,Technology,Accessories,TEC-AC-10001552,Logitech K350 2.4Ghz Wireless Keyboard,248.85,27.3735,Yes
+CA-2015-157770,RD-19585,Temecula,California,West,Consumer,Technology,Accessories,TEC-AC-10003399,Memorex Mini Travel Drive 64 GB USB 2.0 Flash Drive,36.24,15.2208,Yes
+US-2015-110569,EB-13870,Phoenix,Arizona,West,Consumer,Office Supplies,Binders,OFF-BI-10001036,Cardinal EasyOpen D-Ring Binders,19.194,-12.796,Yes
+US-2015-110569,EB-13870,Phoenix,Arizona,West,Consumer,Office Supplies,Appliances,OFF-AP-10004708,Fellowes Superior 10 Outlet Split Surge Protector,121.792,13.7016,Yes
+CA-2017-136308,MW-18235,San Francisco,California,West,Corporate,Technology,Machines,TEC-MA-10000488,Bady BDG101FRU Card Printer,1919.976,215.9973,Yes
+US-2017-109253,PR-18880,Oakland,California,West,Consumer,Office Supplies,Art,OFF-AR-10000203,Newell 336,17.12,4.9648,Yes
+US-2017-109253,PR-18880,Oakland,California,West,Consumer,Technology,Phones,TEC-PH-10004667,Cisco 8x8 Inc. 6753i IP Business Phone System,431.968,37.7972,Yes
+US-2017-109253,PR-18880,Oakland,California,West,Consumer,Furniture,Furnishings,FUR-FU-10000193,Tenex Chairmats For Use with Hard Floors,129.92,10.3936,Yes
+US-2017-109253,PR-18880,Oakland,California,West,Consumer,Furniture,Tables,FUR-TA-10001539,Chromcraft Rectangular Conference Tables,568.728,28.4364,Yes
+US-2017-109253,PR-18880,Oakland,California,West,Consumer,Office Supplies,Binders,OFF-BI-10000962,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",117.144,42.4647,Yes
+US-2017-109253,PR-18880,Oakland,California,West,Consumer,Office Supplies,Appliances,OFF-AP-10002867,Fellowes Command Center 5-outlet power strip,203.52,54.9504,Yes
+US-2017-109253,PR-18880,Oakland,California,West,Consumer,Office Supplies,Labels,OFF-LA-10001158,"Avery Address/Shipping Labels for Typewriters, 4"" x 2""",51.75,24.84,Yes
+CA-2016-145982,TB-21055,Quincy,Massachusetts,East,Consumer,Office Supplies,Paper,OFF-PA-10000675,Xerox 1919,122.97,60.2553,Yes
+CA-2016-145982,TB-21055,Quincy,Massachusetts,East,Consumer,Furniture,Tables,FUR-TA-10001307,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",244.615,20.967,Yes
+CA-2016-145982,TB-21055,Quincy,Massachusetts,East,Consumer,Technology,Phones,TEC-PH-10000011,PureGear Roll-On Screen Protector,59.97,28.7856,Yes
+CA-2016-145982,TB-21055,Quincy,Massachusetts,East,Consumer,Office Supplies,Paper,OFF-PA-10002666,Southworth 25% Cotton Linen-Finish Paper & Envelopes,81.54,36.693,Yes
+CA-2016-145982,TB-21055,Quincy,Massachusetts,East,Consumer,Office Supplies,Fasteners,OFF-FA-10000735,Staples,11.68,5.256,Yes
+CA-2016-145982,TB-21055,Quincy,Massachusetts,East,Consumer,Office Supplies,Binders,OFF-BI-10000174,"Wilson Jones Clip & Carry Folder Binder Tool for Ring Binders, Clear",29,13.92,Yes
+CA-2017-142867,PO-19180,Houston,Texas,Central,Home Office,Office Supplies,Binders,OFF-BI-10003166,GBC Plasticlear Binding Covers,13.776,-22.0416,Yes
+CA-2017-142867,PO-19180,Houston,Texas,Central,Home Office,Office Supplies,Paper,OFF-PA-10004610,Xerox 1900,10.272,3.21,Yes
+CA-2016-134803,CL-12565,Los Angeles,California,West,Consumer,Office Supplies,Appliances,OFF-AP-10000891,Kensington 7 Outlet MasterPiece HOMEOFFICE Power Control Center,262.24,78.672,Yes
+CA-2016-134803,CL-12565,Los Angeles,California,West,Consumer,Office Supplies,Paper,OFF-PA-10003790,Xerox 1991,182.72,84.0512,Yes
+CA-2016-134803,CL-12565,Los Angeles,California,West,Consumer,Technology,Accessories,TEC-AC-10002217,Imation Clip USB flash drive - 8 GB,131.6,7.896,Yes
+CA-2016-134803,CL-12565,Los Angeles,California,West,Consumer,Office Supplies,Binders,OFF-BI-10002215,"Wilson Jones Hanging View Binder, White, 1""",22.72,7.384,Yes
+CA-2016-134803,CL-12565,Los Angeles,California,West,Consumer,Technology,Machines,TEC-MA-10001972,Okidata C331dn Printer,558.4,41.88,Yes
+CA-2014-124688,CC-12610,Springfield,Virginia,South,Corporate,Technology,Phones,TEC-PH-10000455,GE 30522EE2,579.95,168.1855,Yes
+CA-2014-124688,CC-12610,Springfield,Virginia,South,Corporate,Furniture,Furnishings,FUR-FU-10002456,"Master Caster Door Stop, Large Neon Orange",29.12,12.5216,Yes
+CA-2014-124688,CC-12610,Springfield,Virginia,South,Corporate,Furniture,Tables,FUR-TA-10003569,Bretford CR8500 Series Meeting Room Furniture,1202.94,300.735,Yes
+CA-2016-130680,BD-11320,San Diego,California,West,Consumer,Technology,Phones,TEC-PH-10004833,Macally Suction Cup Mount,38.24,-9.56,Yes
+CA-2017-118542,CC-12550,Los Angeles,California,West,Consumer,Office Supplies,Paper,OFF-PA-10004735,Xerox 1905,45.36,21.7728,Yes
+CA-2017-118542,CC-12550,Los Angeles,California,West,Consumer,Office Supplies,Binders,OFF-BI-10003429,"Cardinal HOLDit! Binder Insert Strips,Extra Strips",10.128,3.6714,Yes
+CA-2017-158729,AC-10450,Lafayette,Louisiana,South,Consumer,Office Supplies,Supplies,OFF-SU-10002881,Martin Yale Chadless Opener Electric Letter Opener,1665.62,33.3124,Yes
+CA-2017-141929,RA-19285,Los Angeles,California,West,Consumer,Office Supplies,Binders,OFF-BI-10004632,Ibico Hi-Tech Manual Binding System,487.984,152.495,Yes
+CA-2017-141929,RA-19285,Los Angeles,California,West,Consumer,Technology,Phones,TEC-PH-10002185,QVS USB Car Charger 2-Port 2.1Amp for iPod/iPhone/iPad/iPad 2/iPad 3,5.56,1.7375,Yes
+CA-2017-141929,RA-19285,Los Angeles,California,West,Consumer,Office Supplies,Storage,OFF-ST-10002974,"Trav-L-File Heavy-Duty Shuttle II, Black",217.85,65.355,Yes
+CA-2015-156440,MH-17620,San Diego,California,West,Corporate,Furniture,Furnishings,FUR-FU-10004090,"Executive Impressions 14"" Contract Wall Clock",44.46,14.6718,Yes
+CA-2017-113670,RS-19765,Los Angeles,California,West,Corporate,Furniture,Tables,FUR-TA-10001705,Bush Advantage Collection Round Conference Table,510.24,6.378,Yes
+CA-2017-113670,RS-19765,Los Angeles,California,West,Corporate,Office Supplies,Paper,OFF-PA-10000675,Xerox 1919,204.95,100.4255,Yes
+CA-2017-168193,RM-19750,New York City,New York,East,Consumer,Office Supplies,Paper,OFF-PA-10002254,Xerox 1883,26.38,12.1348,Yes
+CA-2017-168193,RM-19750,New York City,New York,East,Consumer,Furniture,Furnishings,FUR-FU-10002554,"Westinghouse Floor Lamp with Metal Mesh Shade, Black",71.97,16.5531,Yes
+CA-2017-161956,DR-12880,Inglewood,California,West,Corporate,Furniture,Furnishings,FUR-FU-10002937,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",198.46,99.23,Yes
+CA-2017-161956,DR-12880,Inglewood,California,West,Corporate,Office Supplies,Appliances,OFF-AP-10001242,APC 7 Outlet Network SurgeArrest Surge Protector,321.92,96.576,Yes
+CA-2017-161956,DR-12880,Inglewood,California,West,Corporate,Technology,Copiers,TEC-CO-10001571,Sharp 1540cs Digital Laser Copier,879.984,329.994,Yes
+CA-2017-161956,DR-12880,Inglewood,California,West,Corporate,Office Supplies,Supplies,OFF-SU-10002503,Acme Preferred Stainless Steel Scissors,28.4,8.236,Yes
+CA-2017-161956,DR-12880,Inglewood,California,West,Corporate,Furniture,Chairs,FUR-CH-10004886,Bevis Steel Folding Chairs,230.28,23.028,Yes
+CA-2017-161956,DR-12880,Inglewood,California,West,Corporate,Office Supplies,Paper,OFF-PA-10001289,White Computer Printout Paper by Universal,116.28,56.9772,Yes
+CA-2017-161956,DR-12880,Inglewood,California,West,Corporate,Office Supplies,Binders,OFF-BI-10003650,GBC DocuBind 300 Electric Binding Machine,841.568,294.5488,Yes
+CA-2017-161956,DR-12880,Inglewood,California,West,Corporate,Office Supplies,Storage,OFF-ST-10001370,Sensible Storage WireTech Storage Systems,354.9,17.745,Yes
+CA-2015-113628,AH-10690,Plantation,Florida,South,Corporate,Office Supplies,Art,OFF-AR-10001246,Newell 317,11.76,1.323,Yes
+CA-2015-113628,AH-10690,Plantation,Florida,South,Corporate,Office Supplies,Binders,OFF-BI-10003291,Wilson Jones Leather-Like Binders with DublLock Round Rings,5.238,-4.0158,Yes
+CA-2015-113628,AH-10690,Plantation,Florida,South,Corporate,Office Supplies,Binders,OFF-BI-10002799,"SlimView Poly Binder, 3/8""",4.662,-3.7296,Yes
+CA-2015-113628,AH-10690,Plantation,Florida,South,Corporate,Furniture,Chairs,FUR-CH-10003298,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",523.92,-72.039,Yes
+CA-2015-113628,AH-10690,Plantation,Florida,South,Corporate,Technology,Phones,TEC-PH-10000441,VTech DS6151,100.792,10.0792,Yes
+CA-2015-113628,AH-10690,Plantation,Florida,South,Corporate,Furniture,Chairs,FUR-CH-10004477,"Global Push Button Manager's Chair, Indigo",146.136,16.4403,Yes
+CA-2015-140984,CC-12685,New York City,New York,East,Consumer,Office Supplies,Storage,OFF-ST-10000585,Economy Rollaway Files,991.2,257.712,Yes
+CA-2015-140984,CC-12685,New York City,New York,East,Consumer,Technology,Copiers,TEC-CO-10001571,Sharp 1540cs Digital Laser Copier,879.984,329.994,Yes
+CA-2015-140984,CC-12685,New York City,New York,East,Consumer,Office Supplies,Binders,OFF-BI-10002012,Wilson Jones Easy Flow II Sheet Lifters,12.96,4.536,Yes
+CA-2014-140816,TC-21295,Thornton,Colorado,West,Consumer,Technology,Accessories,TEC-AC-10001539,Logitech G430 Surround Sound Gaming Headset with Dolby 7.1 Technology,447.944,89.5888,Yes
+CA-2016-167759,CC-12670,Bloomington,Indiana,Central,Consumer,Technology,Phones,TEC-PH-10003171,Plantronics Encore H101 Dual Earpieces Headset,134.85,37.758,Yes
+CA-2014-103940,BN-11515,Seattle,Washington,West,Consumer,Office Supplies,Storage,OFF-ST-10004963,Eldon Gobal File Keepers,30.28,1.2112,Yes
+CA-2014-103940,BN-11515,Seattle,Washington,West,Consumer,Office Supplies,Storage,OFF-ST-10000943,Eldon ProFile File 'N Store Portable File Tub Letter/Legal Size Black,57.93,16.2204,Yes
+CA-2014-103940,BN-11515,Seattle,Washington,West,Consumer,Furniture,Furnishings,FUR-FU-10004671,"Executive Impressions 12"" Wall Clock",35.34,13.4292,Yes
+CA-2014-103940,BN-11515,Seattle,Washington,West,Consumer,Office Supplies,Binders,OFF-BI-10002735,GBC Prestige Therm-A-Bind Covers,137.24,46.3185,Yes
+CA-2015-132374,PS-19045,Sterling Heights,Michigan,Central,Home Office,Office Supplies,Art,OFF-AR-10001615,Newell 34,79.36,20.6336,Yes
+CA-2014-110786,AJ-10795,San Francisco,California,West,Corporate,Furniture,Furnishings,FUR-FU-10000550,Stacking Trays by OIC,24.9,8.217,Yes
+CA-2014-110786,AJ-10795,San Francisco,California,West,Corporate,Office Supplies,Paper,OFF-PA-10000528,Xerox 1981,21.12,9.504,Yes
+CA-2014-110786,AJ-10795,San Francisco,California,West,Corporate,Technology,Machines,TEC-MA-10003183,DYMO CardScan Personal V9 Business Card Scanner,767.952,287.982,Yes
+CA-2014-110786,AJ-10795,San Francisco,California,West,Corporate,Office Supplies,Binders,OFF-BI-10003305,Avery Hanging File Binders,14.352,4.6644,Yes
+CA-2014-110786,AJ-10795,San Francisco,California,West,Corporate,Technology,Phones,TEC-PH-10001425,Mophie Juice Pack Helium for iPhone,191.976,19.1976,Yes
+CA-2014-110786,AJ-10795,San Francisco,California,West,Corporate,Office Supplies,Labels,OFF-LA-10001474,Avery 477,274.77,126.3942,Yes
+CA-2014-110786,AJ-10795,San Francisco,California,West,Corporate,Furniture,Furnishings,FUR-FU-10000672,"Executive Impressions 10"" Spectator Wall Clock",70.56,23.9904,Yes
+CA-2015-124058,LC-16885,Oakland,California,West,Consumer,Technology,Phones,TEC-PH-10004774,Gear Head AU3700S Headset,72.744,-15.4581,Yes
+CA-2015-124058,LC-16885,Oakland,California,West,Consumer,Furniture,Chairs,FUR-CH-10000595,Safco Contoured Stacking Chairs,572.16,35.76,Yes
+US-2017-155999,JK-15370,San Diego,California,West,Consumer,Technology,Phones,TEC-PH-10000439,GE DSL Phone Line Filter,159.96,17.9955,Yes
+US-2017-155999,JK-15370,San Diego,California,West,Consumer,Office Supplies,Binders,OFF-BI-10000404,Avery Printable Repositionable Plastic Tabs,13.76,4.644,Yes
+CA-2017-112725,EH-14125,San Francisco,California,West,Home Office,Office Supplies,Art,OFF-AR-10003759,"Crayola Anti Dust Chalk, 12/Pack",12.74,5.733,Yes
+CA-2017-112725,EH-14125,San Francisco,California,West,Home Office,Office Supplies,Art,OFF-AR-10001227,Newell 338,8.82,2.3814,Yes
+CA-2017-112725,EH-14125,San Francisco,California,West,Home Office,Furniture,Chairs,FUR-CH-10000863,Novimex Swivel Fabric Task Chair,120.784,-13.5882,Yes
+CA-2014-157924,HA-14920,Pasadena,California,West,Consumer,Office Supplies,Storage,OFF-ST-10002352,Iris Project Case,31.92,8.2992,Yes
+CA-2014-157924,HA-14920,Pasadena,California,West,Consumer,Furniture,Chairs,FUR-CH-10000229,Global Enterprise Series Seating High-Back Swivel/Tilt Chairs,433.568,-65.0352,Yes
+CA-2015-150875,HK-14890,Boise,Idaho,West,Corporate,Furniture,Tables,FUR-TA-10000577,Bretford CR4500 Series Slim Rectangular Table,696.42,160.1766,Yes
+CA-2015-150875,HK-14890,Boise,Idaho,West,Corporate,Technology,Phones,TEC-PH-10001254,Jabra BIZ 2300 Duo QD Duo Corded Headset,304.776,22.8582,Yes
+CA-2015-154970,SR-20740,Seattle,Washington,West,Home Office,Furniture,Chairs,FUR-CH-10003396,Global Deluxe Steno Chair,61.584,-6.9282,Yes
+CA-2014-123253,DE-13255,Lakewood,Ohio,East,Home Office,Office Supplies,Art,OFF-AR-10002804,Faber Castell Col-Erase Pencils,3.912,1.0269,Yes
+CA-2014-152345,ST-20530,Albuquerque,New Mexico,West,Consumer,Technology,Phones,TEC-PH-10004897,Mediabridge Sport Armband iPhone 5s,23.976,-5.6943,Yes
+CA-2014-152345,ST-20530,Albuquerque,New Mexico,West,Consumer,Office Supplies,Storage,OFF-ST-10003123,Fellowes Bases and Tops For Staxonsteel/High-Stak Systems,33.29,7.9896,Yes
+CA-2017-169894,MV-17485,Mesa,Arizona,West,Consumer,Office Supplies,Binders,OFF-BI-10004230,GBC Recycled Grain Textured Covers,20.724,-15.1976,Yes
+CA-2017-169894,MV-17485,Mesa,Arizona,West,Consumer,Office Supplies,Storage,OFF-ST-10000060,Fellowes Bankers Box Staxonsteel Drawer File/Stacking System,415.872,-41.5872,Yes
+CA-2017-111556,CD-11920,New York City,New York,East,Consumer,Office Supplies,Paper,OFF-PA-10003651,Xerox 1968,46.76,22.4448,Yes
+CA-2017-111556,CD-11920,New York City,New York,East,Consumer,Furniture,Bookcases,FUR-BO-10003159,"Sauder Camden County Collection Libraries, Planked Cherry Finish",183.968,-25.2956,Yes
+CA-2017-111556,CD-11920,New York City,New York,East,Consumer,Technology,Phones,TEC-PH-10001459,Samsung Galaxy Mega 6.3,1259.97,327.5922,Yes
+CA-2017-111556,CD-11920,New York City,New York,East,Consumer,Office Supplies,Art,OFF-AR-10004602,Boston KS Multi-Size Manual Pencil Sharpener,68.97,19.3116,Yes
+US-2014-138758,JL-15835,Philadelphia,Pennsylvania,East,Consumer,Furniture,Chairs,FUR-CH-10002880,"Global High-Back Leather Tilter, Burgundy",172.186,-46.7362,Yes
+US-2014-138758,JL-15835,Philadelphia,Pennsylvania,East,Consumer,Furniture,Furnishings,FUR-FU-10003039,"Howard Miller 11-1/2"" Diameter Grantwood Wall Clock",69.008,12.0764,Yes
+CA-2017-112753,CC-12670,Los Angeles,California,West,Consumer,Furniture,Bookcases,FUR-BO-10004015,"Bush Andora Bookcase, Maple/Graphite Gray Finish",917.9235,75.5937,Yes
+CA-2017-112753,CC-12670,Los Angeles,California,West,Consumer,Office Supplies,Paper,OFF-PA-10002036,Xerox 1930,38.88,19.0512,Yes
+CA-2017-167003,VS-21820,Los Angeles,California,West,Consumer,Furniture,Tables,FUR-TA-10001520,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",171.288,-6.4233,Yes
+CA-2016-120873,BW-11200,Hampton,Virginia,South,Consumer,Furniture,Chairs,FUR-CH-10000847,Global Executive Mid-Back Manager's Chair,290.98,75.6548,Yes
+US-2017-105046,BE-11335,Rome,New York,East,Home Office,Technology,Phones,TEC-PH-10004536,Avaya 5420 Digital phone,269.98,67.495,Yes
+US-2017-105046,BE-11335,Rome,New York,East,Home Office,Office Supplies,Paper,OFF-PA-10004353,Southworth 25% Cotton Premium Laser Paper and Envelopes,99.9,47.952,Yes
+US-2017-105046,BE-11335,Rome,New York,East,Home Office,Furniture,Furnishings,FUR-FU-10004848,DAX Solid Wood Frames,39.08,14.4596,Yes
+CA-2015-104129,ES-14080,Providence,Rhode Island,East,Corporate,Technology,Phones,TEC-PH-10003800,i.Sound Portable Power - 8000 mAh,105.98,1.0598,Yes
+CA-2015-104129,ES-14080,Providence,Rhode Island,East,Corporate,Furniture,Tables,FUR-TA-10004152,"Barricks 18"" x 48"" Non-Folding Utility Table with Bottom Storage Shelf",493.92,-28.224,Yes
+CA-2015-130456,DS-13180,San Francisco,California,West,Corporate,Furniture,Bookcases,FUR-BO-10003893,Sauder Camden County Collection Library,586.398,34.494,Yes
+CA-2015-130456,DS-13180,San Francisco,California,West,Corporate,Office Supplies,Storage,OFF-ST-10000736,Carina Double Wide Media Storage Towers in Natural & Black,80.98,3.2392,Yes
+CA-2016-116547,KB-16585,Seattle,Washington,West,Corporate,Furniture,Furnishings,FUR-FU-10000076,24-Hour Round Wall Clock,79.92,34.3656,Yes
+CA-2016-116547,KB-16585,Seattle,Washington,West,Corporate,Technology,Accessories,TEC-AC-10002335,Logitech Media Keyboard K200,69.98,13.2962,Yes
+CA-2015-109736,DJ-13420,San Francisco,California,West,Corporate,Office Supplies,Paper,OFF-PA-10004101,Xerox 1894,45.36,21.7728,Yes
+CA-2015-142601,DE-13255,Los Angeles,California,West,Home Office,Office Supplies,Storage,OFF-ST-10002756,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",947.17,9.4717,Yes
+CA-2015-142601,DE-13255,Los Angeles,California,West,Home Office,Office Supplies,Paper,OFF-PA-10000483,Xerox 19,61.96,27.882,Yes
+CA-2016-123526,BV-11245,Seattle,Washington,West,Corporate,Office Supplies,Paper,OFF-PA-10002986,Xerox 1898,33.4,16.032,Yes
+CA-2017-132346,PK-19075,Newark,Delaware,East,Consumer,Office Supplies,Appliances,OFF-AP-10000696,Holmes Odor Grabber,100.94,33.3102,Yes
+CA-2017-127306,BH-11710,Johnson City,Tennessee,South,Consumer,Office Supplies,Envelopes,OFF-EN-10001219,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",18.336,6.6468,Yes
+CA-2017-127306,BH-11710,Johnson City,Tennessee,South,Consumer,Office Supplies,Paper,OFF-PA-10000019,Xerox 1931,36.288,12.7008,Yes
+CA-2017-127306,BH-11710,Johnson City,Tennessee,South,Consumer,Technology,Phones,TEC-PH-10001924,iHome FM Clock Radio with Lightning Dock,111.984,6.999,Yes
+CA-2017-127306,BH-11710,Johnson City,Tennessee,South,Consumer,Office Supplies,Binders,OFF-BI-10002003,Ibico Presentation Index for Binding Systems,5.97,-4.577,Yes
+CA-2017-127306,BH-11710,Johnson City,Tennessee,South,Consumer,Office Supplies,Binders,OFF-BI-10003727,Avery Durable Slant Ring Binders With Label Holder,2.508,-1.8392,Yes
+CA-2016-151372,JH-15985,Redondo Beach,California,West,Consumer,Office Supplies,Paper,OFF-PA-10004381,14-7/8 x 11 Blue Bar Computer Printout Paper,96.08,46.1184,Yes
+CA-2016-151372,JH-15985,Redondo Beach,California,West,Consumer,Office Supplies,Binders,OFF-BI-10000050,"Angle-D Binders with Locking Rings, Label Holders",11.68,3.942,Yes
+CA-2016-151372,JH-15985,Redondo Beach,California,West,Consumer,Office Supplies,Fasteners,OFF-FA-10000304,Advantus Push Pins,4.36,1.7876,Yes
+CA-2017-117926,AS-10225,San Francisco,California,West,Corporate,Office Supplies,Appliances,OFF-AP-10002670,Belkin 8-Outlet Premiere SurgeMaster II Surge Protectors,69.48,20.844,Yes
+CA-2015-162166,NM-18520,Moreno Valley,California,West,Consumer,Office Supplies,Paper,OFF-PA-10002606,Xerox 1928,26.4,11.88,Yes
+CA-2015-162166,NM-18520,Moreno Valley,California,West,Consumer,Office Supplies,Storage,OFF-ST-10002486,Eldon Shelf Savers Cubes and Bins,41.88,0.8376,Yes
+US-2014-140452,BK-11260,Chicago,Illinois,Central,Consumer,Office Supplies,Appliances,OFF-AP-10004036,Bionaire 99.97% HEPA Air Cleaner,14.016,-31.536,Yes
+US-2014-140452,BK-11260,Chicago,Illinois,Central,Consumer,Furniture,Tables,FUR-TA-10004086,KI Adjustable-Height Table,214.95,-120.372,Yes
+US-2014-140452,BK-11260,Chicago,Illinois,Central,Consumer,Technology,Phones,TEC-PH-10000307,Shocksock Galaxy S4 Armband,35.04,-7.008,Yes
+US-2014-140452,BK-11260,Chicago,Illinois,Central,Consumer,Furniture,Furnishings,FUR-FU-10002088,Nu-Dell Float Frame 11 x 14 1/2,10.776,-4.8492,Yes
+US-2014-140452,BK-11260,Chicago,Illinois,Central,Consumer,Office Supplies,Binders,OFF-BI-10004965,Ibico Covers for Plastic or Wire Binding Elements,4.6,-8.05,Yes
+US-2014-140452,BK-11260,Chicago,Illinois,Central,Consumer,Office Supplies,Storage,OFF-ST-10002485,Rogers Deluxe File Chest,35.168,-8.3524,Yes
+CA-2014-160766,DM-13015,New York City,New York,East,Consumer,Furniture,Tables,FUR-TA-10001039,KI Adjustable-Height Table,464.292,-108.3348,Yes
+CA-2014-160766,DM-13015,New York City,New York,East,Consumer,Office Supplies,Envelopes,OFF-EN-10001099,Staple envelope,68.46,31.4916,Yes
+CA-2014-160766,DM-13015,New York City,New York,East,Consumer,Technology,Machines,TEC-MA-10003979,Ativa V4110MDD Micro-Cut Shredder,2799.96,1371.9804,Yes
+CA-2014-160766,DM-13015,New York City,New York,East,Consumer,Office Supplies,Appliances,OFF-AP-10002945,Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,601.3,198.429,Yes
+CA-2014-160766,DM-13015,New York City,New York,East,Consumer,Technology,Phones,TEC-PH-10001536,Spigen Samsung Galaxy S5 Case Wallet,16.99,4.4174,Yes
+CA-2014-160766,DM-13015,New York City,New York,East,Consumer,Technology,Phones,TEC-PH-10000526,Vtech CS6719,287.97,80.6316,Yes
+CA-2014-160766,DM-13015,New York City,New York,East,Consumer,Office Supplies,Paper,OFF-PA-10000213,Xerox 198,44.82,21.0654,Yes
+CA-2016-151323,AB-10255,Seattle,Washington,West,Home Office,Office Supplies,Fasteners,OFF-FA-10002983,Advantus SlideClip Paper Clips,17.05,8.184,Yes
+CA-2015-161627,SJ-20215,Pasadena,California,West,Consumer,Furniture,Chairs,FUR-CH-10003968,Novimex Turbo Task Chair,170.352,-17.0352,Yes
+US-2017-136679,XP-21865,Pasadena,Texas,Central,Consumer,Technology,Accessories,TEC-AC-10004855,V7 USB Numeric Keypad,167.952,-27.2922,Yes
+US-2017-136679,XP-21865,Pasadena,Texas,Central,Consumer,Office Supplies,Art,OFF-AR-10003582,"Boston Electric Pencil Sharpener, Model 1818, Charcoal Black",45.04,4.504,Yes
+CA-2014-166744,DN-13690,Columbia,Maryland,East,Consumer,Furniture,Furnishings,FUR-FU-10004952,"C-Line Cubicle Keepers Polyproplyene Holder w/Velcro Back, 8-1/2x11, 25/Bx",164.22,50.9082,Yes
+CA-2014-166744,DN-13690,Columbia,Maryland,East,Consumer,Furniture,Bookcases,FUR-BO-10001337,O'Sullivan Living Dimensions 2-Shelf Bookcases,362.94,36.294,Yes
+CA-2014-166744,DN-13690,Columbia,Maryland,East,Consumer,Technology,Accessories,TEC-AC-10003628,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,59.98,26.3912,Yes
+CA-2017-147452,CS-11845,Seattle,Washington,West,Corporate,Office Supplies,Paper,OFF-PA-10001838,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 300/Messages",11.76,5.7624,Yes
+CA-2017-147452,CS-11845,Seattle,Washington,West,Corporate,Office Supplies,Paper,OFF-PA-10004039,Xerox 1882,167.94,82.2906,Yes
+CA-2017-147452,CS-11845,Seattle,Washington,West,Corporate,Office Supplies,Appliances,OFF-AP-10001626,"Commercial WindTunnel Clean Air Upright Vacuum, Replacement Belts, Filtration Bags",3.89,1.0114,Yes
+CA-2015-105158,SP-20860,Rochester,Minnesota,Central,Corporate,Furniture,Furnishings,FUR-FU-10001706,Longer-Life Soft White Bulbs,6.16,2.9568,Yes
+CA-2015-105158,SP-20860,Rochester,Minnesota,Central,Corporate,Office Supplies,Paper,OFF-PA-10001970,Xerox 1881,36.84,17.3148,Yes
+CA-2015-146486,DV-13465,Oceanside,New York,East,Consumer,Office Supplies,Storage,OFF-ST-10002554,Tennsco Industrial Shelving,244.55,4.891,Yes
+CA-2015-146486,DV-13465,Oceanside,New York,East,Consumer,Office Supplies,Envelopes,OFF-EN-10001509,Poly String Tie Envelopes,12.24,5.7528,Yes
+CA-2015-146486,DV-13465,Oceanside,New York,East,Consumer,Technology,Accessories,TEC-AC-10002018,AmazonBasics 3-Button USB Wired Mouse,13.98,6.0114,Yes
+CA-2015-146486,DV-13465,Oceanside,New York,East,Consumer,Technology,Accessories,TEC-AC-10002637,Logitech VX Revolution Cordless Laser Mouse for Notebooks (Black),899.95,53.997,Yes
+CA-2014-104829,JG-15805,Provo,Utah,West,Corporate,Office Supplies,Paper,OFF-PA-10003016,"Adams ""While You Were Out"" Message Pads",21.98,9.891,Yes
+CA-2016-145492,MC-17605,Los Angeles,California,West,Corporate,Office Supplies,Appliances,OFF-AP-10003622,"Bravo II Megaboss 12-Amp Hard Body Upright, Replacement Belts, 2 Belts per Pack",39,11.31,Yes
+US-2016-151827,CS-11950,Philadelphia,Pennsylvania,East,Consumer,Technology,Phones,TEC-PH-10002789,LG Exalt,280.782,-60.8361,Yes
+US-2016-151827,CS-11950,Philadelphia,Pennsylvania,East,Consumer,Technology,Accessories,TEC-AC-10003289,Anker Ultra-Slim Mini Bluetooth 3.0 Wireless Keyboard,31.984,1.1994,Yes
+CA-2017-129707,LH-16750,Chandler,Arizona,West,Consumer,Office Supplies,Art,OFF-AR-10000246,Newell 318,8.896,0.6672,Yes
+US-2016-127425,DR-12880,New York City,New York,East,Corporate,Technology,Phones,TEC-PH-10003442,Samsung Replacement EH64AVFWE Premium Headset,33,8.25,Yes
+US-2016-127425,DR-12880,New York City,New York,East,Corporate,Technology,Accessories,TEC-AC-10002800,Plantronics Audio 478 Stereo USB Headset,249.95,87.4825,Yes
+CA-2017-130631,BS-11755,Edmonds,Washington,West,Consumer,Office Supplies,Fasteners,OFF-FA-10000089,Acco Glide Clips,19.6,9.604,Yes
+CA-2017-130631,BS-11755,Edmonds,Washington,West,Consumer,Furniture,Furnishings,FUR-FU-10004093,Hand-Finished Solid Wood Document Frame,68.46,20.538,Yes
+CA-2017-101574,BD-11725,Los Angeles,California,West,Consumer,Furniture,Furnishings,FUR-FU-10001706,Longer-Life Soft White Bulbs,9.24,4.4352,Yes
+CA-2014-151162,EA-14035,Columbus,Ohio,East,Corporate,Office Supplies,Paper,OFF-PA-10001033,Xerox 1893,98.376,35.6613,Yes
+CA-2014-151162,EA-14035,Columbus,Ohio,East,Corporate,Office Supplies,Binders,OFF-BI-10003719,Large Capacity Hanging Post Binders,29.94,-23.952,Yes
+CA-2014-151162,EA-14035,Columbus,Ohio,East,Corporate,Office Supplies,Paper,OFF-PA-10003036,"Black Print Carbonless 8 1/2"" x 8 1/4"" Rapid Memo Book",17.472,5.6784,Yes
+CA-2014-151162,EA-14035,Columbus,Ohio,East,Corporate,Technology,Phones,TEC-PH-10001870,Lunatik TT5L-002 Taktik Strike Impact Protection System for iPhone 5,36.738,-9.1845,Yes
+CA-2014-151162,EA-14035,Columbus,Ohio,East,Corporate,Technology,Phones,TEC-PH-10001809,Panasonic KX T7736-B Digital phone,179.94,-44.985,Yes
+CA-2017-142342,AJ-10795,Apple Valley,California,West,Corporate,Office Supplies,Paper,OFF-PA-10004609,Xerox 221,32.4,15.552,Yes
+CA-2017-142342,AJ-10795,Apple Valley,California,West,Corporate,Office Supplies,Envelopes,OFF-EN-10002592,"Peel & Seel Recycled Catalog Envelopes, Brown",57.9,28.95,Yes
+CA-2017-142342,AJ-10795,Apple Valley,California,West,Corporate,Office Supplies,Storage,OFF-ST-10002957,Sterilite Show Offs Storage Containers,10.56,0,Yes
+CA-2017-142342,AJ-10795,Apple Valley,California,West,Corporate,Furniture,Bookcases,FUR-BO-10002613,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",1194.165,210.735,Yes
+CA-2016-145261,AH-10120,Salem,Oregon,West,Home Office,Office Supplies,Binders,OFF-BI-10001670,Vinyl Sectional Post Binders,45.24,-30.16,Yes
+CA-2016-145261,AH-10120,Salem,Oregon,West,Home Office,Office Supplies,Art,OFF-AR-10004078,Newell 312,18.688,2.336,Yes
+CA-2016-145261,AH-10120,Salem,Oregon,West,Home Office,Office Supplies,Paper,OFF-PA-10003036,"Black Print Carbonless 8 1/2"" x 8 1/4"" Rapid Memo Book",11.648,3.7856,Yes
+CA-2016-145261,AH-10120,Salem,Oregon,West,Home Office,Technology,Accessories,TEC-AC-10000991,Sony Micro Vault Click 8 GB USB 2.0 Flash Drive,112.776,-8.4582,Yes
+CA-2016-145261,AH-10120,Salem,Oregon,West,Home Office,Furniture,Tables,FUR-TA-10002530,"Iceberg OfficeWorks 42"" Round Tables",377.45,-264.215,Yes
+CA-2016-145261,AH-10120,Salem,Oregon,West,Home Office,Office Supplies,Labels,OFF-LA-10000407,Avery White Multi-Purpose Labels,15.936,5.1792,Yes
+CA-2016-145261,AH-10120,Salem,Oregon,West,Home Office,Technology,Phones,TEC-PH-10004833,Macally Suction Cup Mount,28.68,-7.17,Yes
+US-2015-160857,NW-18400,New York City,New York,East,Consumer,Furniture,Furnishings,FUR-FU-10001095,DAX Black Cherry Wood-Tone Poster Frame,79.44,30.1872,Yes
+US-2015-160857,NW-18400,New York City,New York,East,Consumer,Office Supplies,Supplies,OFF-SU-10000157,Compact Automatic Electric Letter Opener,357.93,7.1586,Yes
+US-2015-160857,NW-18400,New York City,New York,East,Consumer,Furniture,Chairs,FUR-CH-10002647,"Situations Contoured Folding Chairs, 4/Set",127.764,21.294,Yes
+US-2015-160857,NW-18400,New York City,New York,East,Consumer,Technology,Copiers,TEC-CO-10004115,Sharp AL-1530CS Digital Copier,2799.944,1014.9797,Yes
+US-2015-160857,NW-18400,New York City,New York,East,Consumer,Office Supplies,Paper,OFF-PA-10003363,Xerox 204,19.44,9.3312,Yes
+CA-2015-138674,KB-16585,Springfield,Oregon,West,Corporate,Office Supplies,Fasteners,OFF-FA-10000304,Advantus Push Pins,8.72,2.289,Yes
+CA-2015-138674,KB-16585,Springfield,Oregon,West,Corporate,Technology,Accessories,TEC-AC-10000358,Imation Secure Drive + Hardware Encrypted USB flash drive - 16 GB,91.176,4.5588,Yes
+CA-2015-138674,KB-16585,Springfield,Oregon,West,Corporate,Technology,Accessories,TEC-AC-10002800,Plantronics Audio 478 Stereo USB Headset,159.968,29.994,Yes
+CA-2014-148614,MV-17485,Los Angeles,California,West,Consumer,Office Supplies,Paper,OFF-PA-10002893,"Wirebound Service Call Books, 5 1/2"" x 4""",19.36,9.2928,Yes
+CA-2014-148614,MV-17485,Los Angeles,California,West,Consumer,Furniture,Furnishings,FUR-FU-10003194,"Eldon Expressions Desk Accessory, Wood Pencil Holder, Oak",19.3,5.79,Yes
+US-2017-147886,DH-13075,Fairfield,California,West,Corporate,Office Supplies,Paper,OFF-PA-10000232,Xerox 1975,12.96,6.3504,Yes
+US-2017-147886,DH-13075,Fairfield,California,West,Corporate,Furniture,Furnishings,FUR-FU-10001095,DAX Black Cherry Wood-Tone Poster Frame,26.48,10.0624,Yes
+US-2017-147886,DH-13075,Fairfield,California,West,Corporate,Technology,Machines,TEC-MA-10004679,StarTech.com 10/100 VDSL2 Ethernet Extender Kit,532.72,53.272,Yes
+US-2017-147886,DH-13075,Fairfield,California,West,Corporate,Office Supplies,Paper,OFF-PA-10003651,Xerox 1968,26.72,12.8256,Yes
+US-2017-147886,DH-13075,Fairfield,California,West,Corporate,Office Supplies,Paper,OFF-PA-10000743,Xerox 1977,20.04,9.6192,Yes
+US-2017-147886,DH-13075,Fairfield,California,West,Corporate,Office Supplies,Storage,OFF-ST-10002743,SAFCO Boltless Steel Shelving,795.48,7.9548,Yes
+US-2017-147886,DH-13075,Fairfield,California,West,Corporate,Furniture,Furnishings,FUR-FU-10003829,Stackable Trays,21.56,6.8992,Yes
+US-2016-111528,JP-16135,Los Angeles,California,West,Home Office,Office Supplies,Storage,OFF-ST-10001526,Iceberg Mobile Mega Data/Printer Cart ,481.32,125.1432,Yes
+US-2016-111528,JP-16135,Los Angeles,California,West,Home Office,Office Supplies,Binders,OFF-BI-10002194,Cardinal Hold-It CD Pocket,6.384,2.1546,Yes
+CA-2016-142398,BP-11290,Los Angeles,California,West,Consumer,Furniture,Chairs,FUR-CH-10001545,Hon Comfortask Task/Swivel Chairs,638.288,-31.9144,Yes
+CA-2016-142398,BP-11290,Los Angeles,California,West,Consumer,Office Supplies,Binders,OFF-BI-10004826,JM Magazine Binder,13.208,4.6228,Yes
+CA-2014-105270,AP-10915,Los Angeles,California,West,Consumer,Office Supplies,Art,OFF-AR-10003156,50 Colored Long Pencils,30.48,7.9248,Yes
+CA-2014-105270,AP-10915,Los Angeles,California,West,Consumer,Furniture,Chairs,FUR-CH-10000988,Hon Olson Stacker Stools,112.648,11.2648,Yes
+CA-2017-140186,PG-18820,Bakersfield,California,West,Consumer,Office Supplies,Fasteners,OFF-FA-10002280,Advantus Plastic Paper Clips,35,16.8,Yes
+CA-2017-140186,PG-18820,Bakersfield,California,West,Consumer,Furniture,Chairs,FUR-CH-10002961,"Leather Task Chair, Black",72.784,0,Yes
+CA-2017-140186,PG-18820,Bakersfield,California,West,Consumer,Office Supplies,Appliances,OFF-AP-10002578,"Fellowes Premier Superior Surge Suppressor, 10-Outlet, With Phone and Remote",97.84,25.4384,Yes
+CA-2017-140186,PG-18820,Bakersfield,California,West,Consumer,Furniture,Furnishings,FUR-FU-10004848,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",51.75,15.525,Yes
+CA-2017-140186,PG-18820,Bakersfield,California,West,Consumer,Office Supplies,Binders,OFF-BI-10003364,Binding Machine Supplies,46.672,16.3352,Yes
+CA-2014-123225,MN-17935,El Paso,Texas,Central,Consumer,Technology,Phones,TEC-PH-10000895,Polycom VVX 310 VoIP phone,575.968,43.1976,Yes
+CA-2014-123225,MN-17935,El Paso,Texas,Central,Consumer,Office Supplies,Paper,OFF-PA-10000552,Xerox 200,10.368,3.6288,Yes
+CA-2016-133319,MV-17485,New York City,New York,East,Consumer,Office Supplies,Paper,OFF-PA-10001815,Xerox 1885,192.16,92.2368,Yes
+CA-2017-159954,SS-20410,Atlanta,Georgia,South,Consumer,Office Supplies,Binders,OFF-BI-10004876,Wilson Jones Suede Grain Vinyl Binders,2.78,1.3622,Yes
+CA-2014-141726,CC-12145,San Diego,California,West,Consumer,Office Supplies,Paper,OFF-PA-10000418,Xerox 189,104.85,50.328,Yes
+CA-2014-141726,CC-12145,San Diego,California,West,Consumer,Office Supplies,Binders,OFF-BI-10001982,Wilson Jones Custom Binder Spines & Labels,8.704,3.1552,Yes
+CA-2014-141726,CC-12145,San Diego,California,West,Consumer,Office Supplies,Paper,OFF-PA-10002230,Xerox 1897,19.92,9.7608,Yes
+CA-2014-141726,CC-12145,San Diego,California,West,Consumer,Furniture,Furnishings,FUR-FU-10003577,Nu-Dell Leatherette Frames,43.02,15.4872,Yes
+CA-2015-135580,CL-12565,Los Angeles,California,West,Consumer,Office Supplies,Paper,OFF-PA-10000595,Xerox 1929,68.52,31.5192,Yes
+CA-2015-135580,CL-12565,Los Angeles,California,West,Consumer,Office Supplies,Storage,OFF-ST-10000798,2300 Heavy-Duty Transfer File Systems by Perma,74.94,14.2386,Yes
+CA-2015-135580,CL-12565,Los Angeles,California,West,Consumer,Technology,Machines,TEC-MA-10004002,Zebra GX420t Direct Thermal/Thermal Transfer Printer,2548.56,286.713,Yes
+CA-2015-135580,CL-12565,Los Angeles,California,West,Consumer,Office Supplies,Envelopes,OFF-EN-10003296,Tyvek Side-Opening Peel & Seel Expanding Envelopes,271.44,122.148,Yes
+CA-2015-135580,CL-12565,Los Angeles,California,West,Consumer,Technology,Phones,TEC-PH-10004345,Cisco SPA 502G IP Phone,287.88,35.985,Yes
+CA-2014-102652,AY-10555,Los Angeles,California,West,Corporate,Furniture,Furnishings,FUR-FU-10000747,Tenex B1-RE Series Chair Mats for Low Pile Carpets,91.96,15.6332,Yes
+CA-2014-102652,AY-10555,Los Angeles,California,West,Corporate,Furniture,Furnishings,FUR-FU-10001918,C-Line Cubicle Keepers Polyproplyene Holder With Velcro Backings,33.11,12.9129,Yes
+CA-2014-102652,AY-10555,Los Angeles,California,West,Corporate,Office Supplies,Paper,OFF-PA-10003309,Xerox 211,19.44,9.3312,Yes
+CA-2014-102652,AY-10555,Los Angeles,California,West,Corporate,Office Supplies,Paper,OFF-PA-10001977,Xerox 194,55.48,26.6304,Yes
+CA-2015-134201,EH-14125,Rochester,New York,East,Home Office,Office Supplies,Storage,OFF-ST-10001476,Steel Personal Filing/Posting Tote,142.04,38.3508,Yes
+CA-2015-134201,EH-14125,Rochester,New York,East,Home Office,Office Supplies,Art,OFF-AR-10002804,Faber Castell Col-Erase Pencils,14.67,6.0147,Yes
+CA-2015-151547,AH-10465,Bartlett,Tennessee,South,Consumer,Office Supplies,Supplies,OFF-SU-10000898,"Acme Hot Forged Carbon Steel Scissors with Nickel-Plated Handles, 3 7/8"" Cut, 8""L",88.96,10.008,Yes
+CA-2015-114048,EH-13945,Costa Mesa,California,West,Consumer,Furniture,Furnishings,FUR-FU-10004351,Staple-based wall hangings,29.22,12.8568,Yes
+CA-2017-100111,SV-20365,New York City,New York,East,Consumer,Furniture,Chairs,FUR-CH-10003846,Hon Valutask Swivel Chairs,272.646,18.1764,Yes
+CA-2017-100111,SV-20365,New York City,New York,East,Consumer,Technology,Accessories,TEC-AC-10002647,"Logitech Wireless Boombox Speaker - portable - wireless, wired",212.8,95.76,Yes
+CA-2017-100111,SV-20365,New York City,New York,East,Consumer,Office Supplies,Paper,OFF-PA-10000807,"TOPS ""Important Message"" Pads, Canary, 4-1/4 x 5-1/2, 50 Sheets per Pad",38.52,18.1044,Yes
+CA-2017-100111,SV-20365,New York City,New York,East,Consumer,Technology,Accessories,TEC-AC-10001465,SanDisk Cruzer 64 GB USB Flash Drive,72.64,21.792,Yes
+CA-2017-100111,SV-20365,New York City,New York,East,Consumer,Office Supplies,Storage,OFF-ST-10000615,"SimpliFile Personal File, Black Granite, 15w x 6-15/16d x 11-1/4h",45.4,12.712,Yes
+CA-2017-100111,SV-20365,New York City,New York,East,Consumer,Office Supplies,Paper,OFF-PA-10002713,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",13.76,6.3296,Yes
+CA-2017-100111,SV-20365,New York City,New York,East,Consumer,Furniture,Chairs,FUR-CH-10003061,"Global Leather Task Chair, Black",80.991,8.0991,Yes
+CA-2017-100111,SV-20365,New York City,New York,East,Consumer,Office Supplies,Binders,OFF-BI-10000343,"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",11.784,3.9771,Yes
+CA-2017-100111,SV-20365,New York City,New York,East,Consumer,Office Supplies,Fasteners,OFF-FA-10000304,Advantus Push Pins,4.36,1.7876,Yes
+CA-2017-100111,SV-20365,New York City,New York,East,Consumer,Furniture,Chairs,FUR-CH-10004086,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,2888.127,609.7157,Yes
+CA-2017-100111,SV-20365,New York City,New York,East,Consumer,Technology,Phones,TEC-PH-10002885,Apple iPhone 5,1299.66,350.9082,Yes
+CA-2017-100111,SV-20365,New York City,New York,East,Consumer,Furniture,Chairs,FUR-CH-10001215,Global Troy Executive Leather Low-Back Tilter,2254.41,375.735,Yes
+CA-2017-100111,SV-20365,New York City,New York,East,Consumer,Technology,Phones,TEC-PH-10000215,Plantronics Cordless Phone Headset with In-line Volume - M214C,104.85,28.3095,Yes
+CA-2017-100111,SV-20365,New York City,New York,East,Consumer,Technology,Accessories,TEC-AC-10001998,Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,59.97,20.3898,Yes
+CA-2016-133802,SP-20650,Redwood City,California,West,Corporate,Office Supplies,Binders,OFF-BI-10003291,Wilson Jones Leather-Like Binders with DublLock Round Rings,41.904,14.1426,Yes
+CA-2017-152660,CB-12415,Chicago,Illinois,Central,Consumer,Office Supplies,Storage,OFF-ST-10000532,Advantus Rolling Drawer Organizers,61.568,4.6176,Yes
+CA-2017-145772,SS-20140,Los Angeles,California,West,Corporate,Technology,Accessories,TEC-AC-10003038,Kingston Digital DataTraveler 16GB USB 2.0,44.75,8.5025,Yes
+CA-2017-145772,SS-20140,Los Angeles,California,West,Corporate,Office Supplies,Paper,OFF-PA-10001593,Xerox 1947,11.96,5.382,Yes
+CA-2017-145772,SS-20140,Los Angeles,California,West,Corporate,Office Supplies,Binders,OFF-BI-10002049,UniKeep View Case Binders,3.912,1.2714,Yes
+CA-2014-111871,EK-13795,San Francisco,California,West,Home Office,Furniture,Bookcases,FUR-BO-10004218,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",1198.33,70.49,Yes
+CA-2015-134075,HA-14905,San Jose,California,West,Consumer,Furniture,Furnishings,FUR-FU-10004597,Eldon Cleatmat Chair Mats for Medium Pile Carpets,166.5,21.645,Yes
+CA-2015-134075,HA-14905,San Jose,California,West,Consumer,Office Supplies,Storage,OFF-ST-10001496,Standard Rollaway File with Lock,360.38,93.6988,Yes
+US-2016-115952,JH-15910,Tulsa,Oklahoma,Central,Consumer,Office Supplies,Binders,OFF-BI-10004654,Avery Binding System Hidden Tab Executive Style Index Sets,28.85,14.425,Yes
+CA-2014-100762,NG-18355,Jackson,Michigan,Central,Corporate,Office Supplies,Art,OFF-AR-10000380,"Hunt PowerHouse Electric Pencil Sharpener, Blue",151.92,45.576,Yes
+CA-2014-100762,NG-18355,Jackson,Michigan,Central,Corporate,Office Supplies,Labels,OFF-LA-10003930,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",196.62,96.3438,Yes
+CA-2014-100762,NG-18355,Jackson,Michigan,Central,Corporate,Office Supplies,Paper,OFF-PA-10001815,Xerox 1885,144.12,69.1776,Yes
+CA-2014-100762,NG-18355,Jackson,Michigan,Central,Corporate,Office Supplies,Paper,OFF-PA-10004082,"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",15.96,7.98,Yes
+CA-2017-161459,EB-13750,Laguna Niguel,California,West,Corporate,Technology,Phones,TEC-PH-10004071,PayAnywhere Card Reader,39.96,3.4965,Yes
+CA-2017-161459,EB-13750,Laguna Niguel,California,West,Corporate,Office Supplies,Paper,OFF-PA-10002377,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 200/Messages",34.08,15.336,Yes
+CA-2015-146255,EM-14140,Newark,Delaware,East,Home Office,Technology,Accessories,TEC-AC-10004469,Microsoft Sculpt Comfort Mouse,119.85,52.734,Yes
+CA-2015-146255,EM-14140,Newark,Delaware,East,Home Office,Office Supplies,Binders,OFF-BI-10000309,"GBC Twin Loop Wire Binding Elements, 9/16"" Spine, Black",30.44,14.9156,Yes
+CA-2015-146255,EM-14140,Newark,Delaware,East,Home Office,Office Supplies,Binders,OFF-BI-10001765,Wilson Jones Heavy-Duty Casebound Ring Binders with Metal Hinges,69.28,33.2544,Yes
+CA-2015-146255,EM-14140,Newark,Delaware,East,Home Office,Technology,Phones,TEC-PH-10001619,LG G3,587.97,170.5113,Yes
+CA-2017-161557,AG-10900,Dallas,Texas,Central,Consumer,Furniture,Furnishings,FUR-FU-10004622,Eldon Advantage Foldable Chair Mats for Low Pile Carpets,108.4,-105.69,Yes
+US-2017-147998,SA-20830,San Jose,California,West,Consumer,Office Supplies,Binders,OFF-BI-10002082,GBC Twin Loop Wire Binding Elements,133.12,49.92,Yes
+CA-2017-154074,BW-11110,Spokane,Washington,West,Corporate,Furniture,Chairs,FUR-CH-10002331,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,569.568,7.1196,Yes
+CA-2017-154074,BW-11110,Spokane,Washington,West,Corporate,Office Supplies,Storage,OFF-ST-10002370,"Sortfiler Multipurpose Personal File Organizer, Black",149.73,43.4217,Yes
+CA-2015-149650,RD-19660,Oakland,California,West,Home Office,Furniture,Chairs,FUR-CH-10003956,Novimex High-Tech Fabric Mesh Task Chair,454.272,-73.8192,Yes
+CA-2014-103744,MG-17875,El Paso,Texas,Central,Home Office,Office Supplies,Labels,OFF-LA-10004425,Staple-on labels,6.936,2.3409,Yes
+CA-2014-103744,MG-17875,El Paso,Texas,Central,Home Office,Office Supplies,Binders,OFF-BI-10000320,GBC Plastic Binding Combs,4.428,-6.8634,Yes
+US-2017-107888,CC-12220,Seattle,Washington,West,Consumer,Office Supplies,Paper,OFF-PA-10001363,Xerox 1933,73.68,34.6296,Yes
+US-2017-107888,CC-12220,Seattle,Washington,West,Consumer,Furniture,Furnishings,FUR-FU-10003394,"Tenex ""The Solids"" Textured Chair Mats",139.92,23.7864,Yes
+US-2017-107888,CC-12220,Seattle,Washington,West,Consumer,Technology,Phones,TEC-PH-10003171,Plantronics Encore H101 Dual Earpieces Headset,107.88,10.788,Yes
+US-2017-107888,CC-12220,Seattle,Washington,West,Consumer,Office Supplies,Storage,OFF-ST-10003123,Fellowes Bases and Tops For Staxonsteel/High-Stak Systems,33.29,7.9896,Yes
+CA-2017-123085,EJ-13720,Los Angeles,California,West,Consumer,Technology,Accessories,TEC-AC-10000990,Imation Bio 2GB USB Flash Drive Imation Corp,1049.44,440.7648,Yes
+CA-2017-123085,EJ-13720,Los Angeles,California,West,Consumer,Furniture,Chairs,FUR-CH-10003968,Novimex Turbo Task Chair,170.352,-17.0352,Yes
+CA-2015-103716,KB-16585,San Francisco,California,West,Corporate,Office Supplies,Art,OFF-AR-10000658,Newell 324,34.65,9.702,Yes
+CA-2015-103716,KB-16585,San Francisco,California,West,Corporate,Technology,Phones,TEC-PH-10000347,Cush Cases Heavy Duty Rugged Cover Case for Samsung Galaxy S5 - Purple,19.8,1.7325,Yes
+CA-2016-168921,AG-10495,Los Angeles,California,West,Corporate,Office Supplies,Binders,OFF-BI-10004209,"Fellowes Twister Kit, Gray/Clear, 3/pkg",19.296,6.03,Yes
+CA-2015-107678,JK-16090,Louisville,Kentucky,South,Consumer,Furniture,Chairs,FUR-CH-10001891,Global Deluxe Office Fabric Chairs,191.96,51.8292,Yes
+CA-2015-107678,JK-16090,Louisville,Kentucky,South,Consumer,Office Supplies,Binders,OFF-BI-10002215,"Wilson Jones Hanging View Binder, White, 1""",21.3,9.798,Yes
+CA-2015-107678,JK-16090,Louisville,Kentucky,South,Consumer,Technology,Phones,TEC-PH-10002103,Jabra SPEAK 410,469.95,131.586,Yes
+CA-2015-107678,JK-16090,Louisville,Kentucky,South,Consumer,Furniture,Furnishings,FUR-FU-10003394,"Tenex ""The Solids"" Textured Chair Mats",209.88,35.6796,Yes
+CA-2016-105081,JE-15715,Seattle,Washington,West,Consumer,Furniture,Chairs,FUR-CH-10000847,Global Executive Mid-Back Manager's Chair,698.352,52.3764,Yes
+CA-2016-105081,JE-15715,Seattle,Washington,West,Consumer,Furniture,Tables,FUR-TA-10001307,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",1747.25,629.01,Yes
+CA-2016-166275,SS-20590,San Francisco,California,West,Consumer,Technology,Accessories,TEC-AC-10001838,Razer Tiamat Over Ear 7.1 Surround Sound PC Gaming Headset,199.99,85.9957,Yes
+CA-2014-108609,AJ-10780,Lorain,Ohio,East,Corporate,Furniture,Tables,FUR-TA-10003954,Hon 94000 Series Round Tables,1421.664,-734.5264,Yes
+CA-2016-124527,IM-15055,Roseville,California,West,Consumer,Office Supplies,Binders,OFF-BI-10004967,Round Ring Binders,8.32,2.808,Yes
+CA-2017-128965,PS-18760,Los Angeles,California,West,Consumer,Office Supplies,Paper,OFF-PA-10004911,"Rediform S.O.S. 1-Up Phone Message Bk, 4-1/4x3-1/16 Bk, 1 Form/Pg, 40 Messages/Bk, 3/Pk",28.14,13.5072,Yes
+CA-2017-128965,PS-18760,Los Angeles,California,West,Consumer,Office Supplies,Labels,OFF-LA-10001404,Avery 517,7.38,3.4686,Yes
+CA-2017-128965,PS-18760,Los Angeles,California,West,Consumer,Office Supplies,Fasteners,OFF-FA-10001561,Stockwell Push Pins,10.9,3.597,Yes
+CA-2017-128965,PS-18760,Los Angeles,California,West,Consumer,Technology,Accessories,TEC-AC-10001383,Logitech Wireless Touch Keyboard K400,274.89,46.7313,Yes
+CA-2017-128965,PS-18760,Los Angeles,California,West,Consumer,Office Supplies,Labels,OFF-LA-10003190,Avery 474,23.04,11.2896,Yes
+CA-2017-128965,PS-18760,Los Angeles,California,West,Consumer,Furniture,Chairs,FUR-CH-10003774,"Global Wood Trimmed Manager's Task Chair, Khaki",218.352,-19.1058,Yes
+CA-2017-153822,AB-10105,Phoenix,Arizona,West,Consumer,Office Supplies,Storage,OFF-ST-10000321,Akro Stacking Bins,12.624,-2.5248,Yes
+CA-2017-153822,AB-10105,Phoenix,Arizona,West,Consumer,Technology,Accessories,TEC-AC-10000109,Sony Micro Vault Click 16 GB USB 2.0 Flash Drive,89.584,4.4792,Yes
+CA-2017-153822,AB-10105,Phoenix,Arizona,West,Consumer,Technology,Phones,TEC-PH-10002415,Polycom VoiceStation 500 Conference phone,471.92,29.495,Yes
+CA-2017-153822,AB-10105,Phoenix,Arizona,West,Consumer,Office Supplies,Binders,OFF-BI-10001460,Plastic Binding Combs,18.18,-13.938,Yes
+CA-2015-112144,CY-12745,Gilbert,Arizona,West,Corporate,Office Supplies,Labels,OFF-LA-10000443,Avery 501,5.904,1.9926,Yes
+CA-2015-112144,CY-12745,Gilbert,Arizona,West,Corporate,Furniture,Furnishings,FUR-FU-10004306,Electrix Halogen Magnifier Lamp,621.76,46.632,Yes
+CA-2016-165330,WB-21850,Anaheim,California,West,Consumer,Office Supplies,Binders,OFF-BI-10004593,Ibico Laser Imprintable Binding System Covers,209.6,68.12,Yes
+CA-2016-165330,WB-21850,Anaheim,California,West,Consumer,Office Supplies,Art,OFF-AR-10000914,Boston 16765 Mini Stand Up Battery Pencil Sharpener,23.32,6.0632,Yes
+CA-2016-165330,WB-21850,Anaheim,California,West,Consumer,Office Supplies,Paper,OFF-PA-10000241,"IBM Multi-Purpose Copy Paper, 8 1/2 x 11"", Case",30.98,13.941,Yes
+CA-2016-165330,WB-21850,Anaheim,California,West,Consumer,Technology,Accessories,TEC-AC-10000057,Microsoft Natural Ergonomic Keyboard 4000,119.96,25.1916,Yes
+CA-2016-165330,WB-21850,Anaheim,California,West,Consumer,Furniture,Chairs,FUR-CH-10003774,"Global Wood Trimmed Manager's Task Chair, Khaki",363.92,-31.843,Yes
+CA-2016-165330,WB-21850,Anaheim,California,West,Consumer,Office Supplies,Binders,OFF-BI-10002824,Recycled Easel Ring Binders,35.808,11.19,Yes
+CA-2016-165330,WB-21850,Anaheim,California,West,Consumer,Office Supplies,Binders,OFF-BI-10004001,GBC Recycled VeloBinder Covers,122.688,39.8736,Yes
+CA-2016-165330,WB-21850,Anaheim,California,West,Consumer,Furniture,Tables,FUR-TA-10004619,Hon Non-Folding Utility Tables,892.136,111.517,Yes
+CA-2016-165330,WB-21850,Anaheim,California,West,Consumer,Office Supplies,Storage,OFF-ST-10000636,Rogers Profile Extra Capacity Storage Tub,50.22,2.0088,Yes
+CA-2016-165330,WB-21850,Anaheim,California,West,Consumer,Office Supplies,Appliances,OFF-AP-10001469,Fellowes 8 Outlet Superior Workstation Surge Protector,83.42,24.1918,Yes
+CA-2016-165330,WB-21850,Anaheim,California,West,Consumer,Office Supplies,Binders,OFF-BI-10002897,"Black Avery Memo-Size 3-Ring Binder, 5 1/2"" x 8 1/2""",5.872,2.1286,Yes
+CA-2016-106950,JE-15715,Charlotte,North Carolina,South,Consumer,Office Supplies,Binders,OFF-BI-10000014,Heavy-Duty E-Z-D Binders,22.911,-17.5651,Yes
+CA-2016-106950,JE-15715,Charlotte,North Carolina,South,Consumer,Office Supplies,Appliances,OFF-AP-10000159,Belkin F9M820V08 8 Outlet Surge,309.456,34.8138,Yes
+CA-2016-106950,JE-15715,Charlotte,North Carolina,South,Consumer,Office Supplies,Art,OFF-AR-10003560,Zebra Zazzle Fluorescent Highlighters,19.456,3.4048,Yes
+CA-2016-106950,JE-15715,Charlotte,North Carolina,South,Consumer,Furniture,Tables,FUR-TA-10001768,Hon Racetrack Conference Tables,472.518,-149.6307,Yes
+CA-2016-106950,JE-15715,Charlotte,North Carolina,South,Consumer,Technology,Accessories,TEC-AC-10002049,Plantronics Savi W720 Multi-Device Wireless Headset System,1012.68,303.804,Yes
+CA-2016-106950,JE-15715,Charlotte,North Carolina,South,Consumer,Office Supplies,Binders,OFF-BI-10003166,GBC Plasticlear Binding Covers,17.22,-12.628,Yes
+CA-2017-118122,GG-14650,Seattle,Washington,West,Corporate,Office Supplies,Binders,OFF-BI-10002103,"Cardinal Slant-D Ring Binder, Heavy Gauge Vinyl",13.904,4.5188,Yes
+US-2015-136749,LH-16900,Columbus,Georgia,South,Consumer,Furniture,Furnishings,FUR-FU-10000747,Tenex B1-RE Series Chair Mats for Low Pile Carpets,275.88,46.8996,Yes
+US-2015-136749,LH-16900,Columbus,Georgia,South,Consumer,Office Supplies,Binders,OFF-BI-10004492,Tuf-Vin Binders,157.9,74.213,Yes
+CA-2017-150609,NZ-18565,Los Angeles,California,West,Home Office,Office Supplies,Binders,OFF-BI-10002071,Fellowes Black Plastic Comb Bindings,23.24,7.553,Yes
+CA-2014-116785,MH-17290,Los Angeles,California,West,Home Office,Office Supplies,Art,OFF-AR-10003504,Newell 347,21.4,6.206,Yes
+CA-2014-116785,MH-17290,Los Angeles,California,West,Home Office,Office Supplies,Labels,OFF-LA-10000305,Avery 495,12.6,5.796,Yes
+CA-2017-137414,CM-12115,San Francisco,California,West,Consumer,Furniture,Furnishings,FUR-FU-10001424,Dax Clear Box Frame,17.46,5.9364,Yes
+CA-2017-137414,CM-12115,San Francisco,California,West,Consumer,Technology,Machines,TEC-MA-10002930,Ricoh - Ink Collector Unit for GX3000 Series Printers,369.16,32.3015,Yes
+US-2016-119046,EH-13765,Seattle,Washington,West,Corporate,Office Supplies,Paper,OFF-PA-10000246,Riverleaf Stik-Withit Designer Note Cubes,30.18,13.8828,Yes
+US-2016-119046,EH-13765,Seattle,Washington,West,Corporate,Office Supplies,Binders,OFF-BI-10001078,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 14 7/8"" X 11""",51.648,18.7224,Yes
+US-2016-119046,EH-13765,Seattle,Washington,West,Corporate,Office Supplies,Binders,OFF-BI-10000138,Acco Translucent Poly Ring Binders,11.232,3.9312,Yes
+CA-2017-154949,MC-17275,Camarillo,California,West,Consumer,Office Supplies,Labels,OFF-LA-10002034,Avery 478,14.73,7.2177,Yes
+CA-2015-150770,LC-16870,San Francisco,California,West,Consumer,Office Supplies,Art,OFF-AR-10001246,Newell 317,8.82,2.5578,Yes
+CA-2015-150770,LC-16870,San Francisco,California,West,Consumer,Office Supplies,Binders,OFF-BI-10002026,Ibico Recycled Linen-Style Covers,62.496,21.8736,Yes
+CA-2015-150770,LC-16870,San Francisco,California,West,Consumer,Technology,Accessories,TEC-AC-10000844,Logitech Gaming G510s - Keyboard,339.96,122.3856,Yes
+CA-2015-150770,LC-16870,San Francisco,California,West,Consumer,Office Supplies,Binders,OFF-BI-10001575,GBC Linen Binding Covers,49.568,17.3488,Yes
+CA-2017-136651,JF-15355,Pasadena,California,West,Consumer,Furniture,Furnishings,FUR-FU-10002445,"DAX Two-Tone Rosewood/Black Document Frame, Desktop, 5 x 7",66.36,26.544,Yes
+CA-2017-136651,JF-15355,Pasadena,California,West,Consumer,Office Supplies,Binders,OFF-BI-10003638,GBC Durable Plastic Covers,92.88,30.186,Yes
+CA-2017-136651,JF-15355,Pasadena,California,West,Consumer,Furniture,Furnishings,FUR-FU-10004864,Eldon 500 Class Desk Accessories,24.14,7.9662,Yes
+US-2017-151127,RL-19615,Los Angeles,California,West,Consumer,Office Supplies,Art,OFF-AR-10002445,SANFORD Major Accent Highlighters,49.56,18.8328,Yes
+CA-2016-133368,AG-10675,Concord,North Carolina,South,Consumer,Office Supplies,Paper,OFF-PA-10004039,Xerox 1882,89.568,32.4684,Yes
+CA-2016-133368,AG-10675,Concord,North Carolina,South,Consumer,Furniture,Furnishings,FUR-FU-10003374,Electrix Fluorescent Magnifier Lamps & Weighted Base,315.776,31.5776,Yes
+US-2014-164763,MH-17440,Jackson,Mississippi,South,Corporate,Office Supplies,Binders,OFF-BI-10000605,"Acco Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Executive Red",11.43,5.3721,Yes
+US-2014-164763,MH-17440,Jackson,Mississippi,South,Corporate,Office Supplies,Binders,OFF-BI-10000309,"GBC Twin Loop Wire Binding Elements, 9/16"" Spine, Black",30.44,14.9156,Yes
+US-2014-164763,MH-17440,Jackson,Mississippi,South,Corporate,Office Supplies,Paper,OFF-PA-10003349,Xerox 1957,12.96,6.3504,Yes
+US-2014-164763,MH-17440,Jackson,Mississippi,South,Corporate,Office Supplies,Paper,OFF-PA-10003063,EcoTones Memo Sheets,16,7.68,Yes
+US-2014-164763,MH-17440,Jackson,Mississippi,South,Corporate,Office Supplies,Appliances,OFF-AP-10003971,Belkin 6 Outlet Metallic Surge Strip,32.67,8.4942,Yes
+US-2015-136987,AR-10540,Los Angeles,California,West,Consumer,Technology,Copiers,TEC-CO-10001943,Canon PC-428 Personal Copier,639.968,215.9892,Yes
+US-2015-136987,AR-10540,Los Angeles,California,West,Consumer,Office Supplies,Paper,OFF-PA-10003127,Easy-staple paper,52.76,24.2696,Yes
+CA-2016-138282,AH-10690,Los Angeles,California,West,Corporate,Office Supplies,Appliances,OFF-AP-10001366,Staple holder,87.84,23.7168,Yes
+CA-2017-157196,AA-10645,San Diego,California,West,Consumer,Office Supplies,Paper,OFF-PA-10003172,Xerox 1996,12.96,6.2208,Yes
+CA-2014-134726,SW-20755,Seattle,Washington,West,Corporate,Technology,Accessories,TEC-AC-10000023,"Maxell 74 Minute CD-R Spindle, 50/Pack",41.94,15.0984,Yes
+CA-2014-134726,SW-20755,Seattle,Washington,West,Corporate,Technology,Phones,TEC-PH-10001750,Samsung Rugby III,52.792,4.6193,Yes
+US-2016-157490,LB-16795,Pueblo,Colorado,West,Home Office,Technology,Machines,TEC-MA-10001695,Zebra GK420t Direct Thermal/Thermal Transfer Printer,703.71,-938.28,Yes
+US-2016-157490,LB-16795,Pueblo,Colorado,West,Home Office,Office Supplies,Binders,OFF-BI-10002824,Recycled Easel Ring Binders,17.904,-14.92,Yes
+US-2016-157490,LB-16795,Pueblo,Colorado,West,Home Office,Office Supplies,Binders,OFF-BI-10002571,"Avery Framed View Binder, EZD Ring (Locking), Navy, 1 1/2""",11.976,-9.1816,Yes
+US-2016-157490,LB-16795,Pueblo,Colorado,West,Home Office,Technology,Accessories,TEC-AC-10001553,"Memorex 25GB 6X Branded Blu-Ray Recordable Disc, 15/Pack",67.96,0.8495,Yes
+CA-2016-118899,MC-17275,Seattle,Washington,West,Consumer,Furniture,Chairs,FUR-CH-10004754,"Global Stack Chair with Arms, Black",167.888,14.6902,Yes
+CA-2015-149636,SP-20620,Colorado Springs,Colorado,West,Corporate,Office Supplies,Paper,OFF-PA-10004041,"It's Hot Message Books with Stickers, 2 3/4"" x 5""",29.6,9.25,Yes
+CA-2015-149636,SP-20620,Colorado Springs,Colorado,West,Corporate,Office Supplies,Binders,OFF-BI-10002764,Recycled Pressboard Report Cover with Reinforced Top Hinge,1.938,-1.3566,Yes
+CA-2017-156391,SL-20155,Salem,Oregon,West,Home Office,Office Supplies,Art,OFF-AR-10003251,Prang Drawing Pencil Set,2.224,0.556,Yes
+US-2017-123834,GM-14500,Pharr,Texas,Central,Consumer,Furniture,Tables,FUR-TA-10001676,Hon 61000 Series Interactive Training Tables,124.404,-21.3264,Yes
+CA-2017-166093,RW-19540,Brentwood,California,West,Corporate,Office Supplies,Envelopes,OFF-EN-10003134,Staple envelope,23.36,11.68,Yes
+CA-2017-166093,RW-19540,Brentwood,California,West,Corporate,Technology,Phones,TEC-PH-10002564,OtterBox Defender Series Case - Samsung Galaxy S4,71.976,8.997,Yes
+CA-2017-166093,RW-19540,Brentwood,California,West,Corporate,Office Supplies,Paper,OFF-PA-10003893,Xerox 1962,8.56,3.852,Yes
+CA-2017-166093,RW-19540,Brentwood,California,West,Corporate,Office Supplies,Binders,OFF-BI-10000174,"Wilson Jones Clip & Carry Folder Binder Tool for Ring Binders, Clear",13.92,4.872,Yes
+CA-2017-166093,RW-19540,Brentwood,California,West,Corporate,Office Supplies,Appliances,OFF-AP-10001058,Sanyo 2.5 Cubic Foot Mid-Size Office Refrigerators,2518.29,654.7554,Yes
+CA-2017-166093,RW-19540,Brentwood,California,West,Corporate,Office Supplies,Storage,OFF-ST-10001496,Standard Rollaway File with Lock,540.57,140.5482,Yes
+CA-2017-166093,RW-19540,Brentwood,California,West,Corporate,Office Supplies,Binders,OFF-BI-10004230,GBC Recycled Grain Textured Covers,221.056,77.3696,Yes
+CA-2017-134194,GA-14725,Dallas,Texas,Central,Consumer,Office Supplies,Binders,OFF-BI-10003684,Wilson Jones Legal Size Ring Binders,39.582,-59.373,Yes
+CA-2017-134194,GA-14725,Dallas,Texas,Central,Consumer,Office Supplies,Supplies,OFF-SU-10000946,Staple remover,44.688,5.0274,Yes
+CA-2017-134194,GA-14725,Dallas,Texas,Central,Consumer,Office Supplies,Art,OFF-AR-10001615,Newell 34,31.744,2.3808,Yes
+CA-2017-134194,GA-14725,Dallas,Texas,Central,Consumer,Office Supplies,Binders,OFF-BI-10001597,"Wilson Jones Ledger-Size, Piano-Hinge Binder, 2"", Blue",40.98,-65.568,Yes
+CA-2017-134194,GA-14725,Dallas,Texas,Central,Consumer,Office Supplies,Binders,OFF-BI-10001116,"Wilson Jones 1"" Hanging DublLock Ring Binders",3.168,-5.0688,Yes
+CA-2017-131807,GG-14650,Chico,California,West,Corporate,Furniture,Chairs,FUR-CH-10001190,Global Deluxe High-Back Office Chair in Storm,435.168,-59.8356,Yes
+CA-2017-131807,GG-14650,Chico,California,West,Corporate,Office Supplies,Fasteners,OFF-FA-10002780,Staples,14.9,6.854,Yes
+CA-2017-131807,GG-14650,Chico,California,West,Corporate,Office Supplies,Appliances,OFF-AP-10004052,"Hoover Replacement Belts For Soft Guard & Commercial Ltweight Upright Vacs, 2/Pk",15.8,4.108,Yes
+CA-2017-131807,GG-14650,Chico,California,West,Corporate,Furniture,Furnishings,FUR-FU-10004666,DAX Clear Channel Poster Frame,72.9,26.973,Yes
+CA-2017-131807,GG-14650,Chico,California,West,Corporate,Furniture,Tables,FUR-TA-10004086,KI Adjustable-Height Table,206.352,5.1588,Yes
+CA-2017-131807,GG-14650,Chico,California,West,Corporate,Technology,Phones,TEC-PH-10000702,"Square Credit Card Reader, 4 1/2"" x 4 1/2"" x 1"", White",7.992,2.6973,Yes
+CA-2017-165008,DO-13645,Salt Lake City,Utah,West,Consumer,Office Supplies,Binders,OFF-BI-10002794,"Avery Trapezoid Ring Binder, 3"" Capacity, Black, 1040 sheets",295.056,106.9578,Yes
+CA-2017-140151,RB-19360,Seattle,Washington,West,Consumer,Office Supplies,Storage,OFF-ST-10001558,Acco Perma 4000 Stacking Storage Drawers,32.48,4.872,Yes
+CA-2017-140151,RB-19360,Seattle,Washington,West,Consumer,Office Supplies,Paper,OFF-PA-10002986,Xerox 1898,20.04,9.6192,Yes
+CA-2017-140151,RB-19360,Seattle,Washington,West,Consumer,Technology,Copiers,TEC-CO-10004722,Canon imageCLASS 2200 Advanced Copier,13999.96,6719.9808,Yes
+CA-2016-128671,MT-18070,Tulsa,Oklahoma,Central,Home Office,Office Supplies,Paper,OFF-PA-10001870,Xerox 202,32.4,15.552,Yes
+CA-2016-128671,MT-18070,Tulsa,Oklahoma,Central,Home Office,Office Supplies,Binders,OFF-BI-10003305,Avery Hanging File Binders,41.86,19.2556,Yes
+CA-2016-128671,MT-18070,Tulsa,Oklahoma,Central,Home Office,Office Supplies,Binders,OFF-BI-10003007,"Premium Transparent Presentation Covers, No Pattern/Clear, 8 1/2"" x 11""",77.56,35.6776,Yes
+CA-2014-109918,LR-17035,Santa Clara,California,West,Corporate,Office Supplies,Supplies,OFF-SU-10004290,"Acme Design Line 8"" Stainless Steel Bent Scissors w/Champagne Handles, 3-1/8"" Cut",27.36,7.3872,Yes
+CA-2014-109918,LR-17035,Santa Clara,California,West,Corporate,Office Supplies,Paper,OFF-PA-10000174,"Message Book, Wirebound, Four 5 1/2"" X 4"" Forms/Pg., 200 Dupl. Sets/Book",20.56,9.6632,Yes
+CA-2014-109918,LR-17035,Santa Clara,California,West,Corporate,Office Supplies,Binders,OFF-BI-10004308,Avery Legal 4-Ring Binder,83.92,31.47,Yes
+CA-2015-110814,BD-11635,New York City,New York,East,Consumer,Office Supplies,Binders,OFF-BI-10002026,Avery Arch Ring Binders,232.4,78.435,Yes
+CA-2015-110814,BD-11635,New York City,New York,East,Consumer,Furniture,Chairs,FUR-CH-10003535,"Global Armless Task Chair, Royal Blue",164.646,12.8058,Yes
+CA-2015-110814,BD-11635,New York City,New York,East,Consumer,Office Supplies,Paper,OFF-PA-10004156,Xerox 188,22.68,11.1132,Yes
+CA-2014-108861,MM-17260,Seattle,Washington,West,Consumer,Office Supplies,Binders,OFF-BI-10003876,"Green Canvas Binder for 8-1/2"" x 14"" Sheets",136.96,51.36,Yes
+CA-2017-101273,ST-20530,Port Saint Lucie,Florida,South,Consumer,Office Supplies,Appliances,OFF-AP-10000804,Hoover Portapower Portable Vacuum,14.336,0.896,Yes
+CA-2017-162015,KB-16240,Los Angeles,California,West,Corporate,Technology,Accessories,TEC-AC-10003832,Logitech P710e Mobile Speakerphone,1287.45,244.6155,Yes
+CA-2017-162015,KB-16240,Los Angeles,California,West,Corporate,Office Supplies,Appliances,OFF-AP-10003040,Fellowes 8 Outlet Superior Workstation Surge Protector w/o Phone/Fax/Modem Protection,168.1,43.706,Yes
+CA-2017-101700,SO-20335,Greeley,Colorado,West,Consumer,Office Supplies,Envelopes,OFF-EN-10003134,Staple envelope,18.688,7.008,Yes
+CA-2017-101700,SO-20335,Greeley,Colorado,West,Consumer,Furniture,Furnishings,FUR-FU-10001025,"Eldon Imàge Series Desk Accessories, Clear",11.664,3.3534,Yes
+CA-2017-117513,BT-11395,Los Angeles,California,West,Corporate,Furniture,Tables,FUR-TA-10001520,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",399.672,-14.9877,Yes
+US-2016-114230,CM-12235,Phoenix,Arizona,West,Consumer,Office Supplies,Storage,OFF-ST-10000876,Eldon Simplefile Box Office,39.808,3.9808,Yes
+CA-2016-113341,MH-17455,Los Angeles,California,West,Consumer,Furniture,Chairs,FUR-CH-10004698,"Padded Folding Chairs, Black, 4/Carton",194.352,19.4352,Yes
+CA-2014-142769,RP-19390,Seattle,Washington,West,Consumer,Office Supplies,Fasteners,OFF-FA-10000840,OIC Thumb-Tacks,5.7,2.679,Yes
+CA-2014-142769,RP-19390,Seattle,Washington,West,Consumer,Furniture,Furnishings,FUR-FU-10001918,C-Line Cubicle Keepers Polyproplyene Holder With Velcro Backings,14.19,5.5341,Yes
+CA-2014-142769,RP-19390,Seattle,Washington,West,Consumer,Office Supplies,Supplies,OFF-SU-10001574,Acme Value Line Scissors,7.3,2.19,Yes
+CA-2014-142769,RP-19390,Seattle,Washington,West,Consumer,Technology,Accessories,TEC-AC-10001606,Logitech Wireless Performance Mouse MX for PC and Mac,199.98,75.9924,Yes
+CA-2014-142769,RP-19390,Seattle,Washington,West,Consumer,Technology,Accessories,TEC-AC-10003399,Memorex Mini Travel Drive 64 GB USB 2.0 Flash Drive,144.96,60.8832,Yes
+CA-2014-142769,RP-19390,Seattle,Washington,West,Consumer,Technology,Accessories,TEC-AC-10000865,WD My Passport Ultra 500GB Portable External Hard Drive,118,20.06,Yes
+CA-2014-142769,RP-19390,Seattle,Washington,West,Consumer,Office Supplies,Paper,OFF-PA-10002923,Xerox 1942,48.94,24.47,Yes
+CA-2014-142769,RP-19390,Seattle,Washington,West,Consumer,Office Supplies,Appliances,OFF-AP-10004785,"Holmes Replacement Filter for HEPA Air Cleaner, Medium Room",22.66,9.7438,Yes
+CA-2016-118500,HJ-14875,San Francisco,California,West,Home Office,Office Supplies,Supplies,OFF-SU-10004231,Acme Tagit Stainless Steel Antibacterial Scissors,49.5,13.365,Yes
+CA-2016-118311,ED-13885,San Francisco,California,West,Home Office,Technology,Accessories,TEC-AC-10000892,NETGEAR N750 Dual Band Wi-Fi Gigabit Router,450,162,Yes
+CA-2017-119284,TS-21205,Nashville,Tennessee,South,Corporate,Technology,Phones,TEC-PH-10001051,HTC One,239.976,26.9973,Yes
+CA-2017-119284,TS-21205,Nashville,Tennessee,South,Corporate,Furniture,Furnishings,FUR-FU-10004351,Staple-based wall hangings,31.168,9.3504,Yes
+CA-2017-119284,TS-21205,Nashville,Tennessee,South,Corporate,Furniture,Tables,FUR-TA-10004152,"Barricks 18"" x 48"" Non-Folding Utility Table with Bottom Storage Shelf",120.96,-28.224,Yes
+CA-2017-119284,TS-21205,Nashville,Tennessee,South,Corporate,Technology,Phones,TEC-PH-10000560,Samsung Galaxy S III - 16GB - pebble blue (T-Mobile),2239.936,223.9936,Yes
+CA-2017-119284,TS-21205,Nashville,Tennessee,South,Corporate,Office Supplies,Appliances,OFF-AP-10004249,Staple holder,76.608,6.7032,Yes
+CA-2017-119284,TS-21205,Nashville,Tennessee,South,Corporate,Office Supplies,Storage,OFF-ST-10001490,"Hot File 7-Pocket, Floor Stand",142.776,17.847,Yes
+CA-2017-119284,TS-21205,Nashville,Tennessee,South,Corporate,Office Supplies,Paper,OFF-PA-10000312,Xerox 1955,91.36,29.692,Yes
+CA-2016-114307,MF-17665,Columbia,Maryland,East,Corporate,Office Supplies,Appliances,OFF-AP-10002350,Belkin F9H710-06 7 Outlet SurgeMaster Surge Protector,37.68,10.5504,Yes
+CA-2016-114307,MF-17665,Columbia,Maryland,East,Corporate,Office Supplies,Paper,OFF-PA-10004100,Xerox 216,51.84,24.8832,Yes
+CA-2016-114307,MF-17665,Columbia,Maryland,East,Corporate,Furniture,Furnishings,FUR-FU-10000794,"Eldon Stackable Tray, Side-Load, Legal, Smoke",27.42,9.3228,Yes
+CA-2016-114307,MF-17665,Columbia,Maryland,East,Corporate,Office Supplies,Binders,OFF-BI-10002012,Wilson Jones Easy Flow II Sheet Lifters,5.4,2.592,Yes
+US-2016-140172,SP-20650,Jackson,Michigan,Central,Corporate,Office Supplies,Appliances,OFF-AP-10004233,Honeywell Enviracaire Portable Air Cleaner for up to 8 x 10 Room,207.144,48.3336,Yes
+US-2016-140172,SP-20650,Jackson,Michigan,Central,Corporate,Office Supplies,Art,OFF-AR-10002766,Prang Drawing Pencil Set,13.9,3.753,Yes
+CA-2017-101805,SH-19975,Seattle,Washington,West,Corporate,Office Supplies,Binders,OFF-BI-10002003,Ibico Presentation Index for Binding Systems,15.92,5.373,Yes
+CA-2017-101805,SH-19975,Seattle,Washington,West,Corporate,Furniture,Furnishings,FUR-FU-10000023,Eldon Wave Desk Accessories,70.68,31.0992,Yes
+CA-2017-101805,SH-19975,Seattle,Washington,West,Corporate,Office Supplies,Storage,OFF-ST-10002756,"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",541.24,5.4124,Yes
+US-2014-105137,RB-19435,Columbus,Ohio,East,Consumer,Technology,Machines,TEC-MA-10002694,Hewlett-Packard Deskjet F4180 All-in-One Color Ink-jet - Printer / copier / scanner,101.994,-71.3958,Yes
+US-2014-105137,RB-19435,Columbus,Ohio,East,Consumer,Office Supplies,Binders,OFF-BI-10002429,"Premier Elliptical Ring Binder, Black",18.264,-13.3936,Yes
+CA-2016-162159,CR-12625,Columbus,Georgia,South,Home Office,Furniture,Chairs,FUR-CH-10001146,"Global Value Mid-Back Manager's Chair, Gray",121.78,30.445,Yes
+US-2016-144057,CV-12805,Austin,Texas,Central,Corporate,Office Supplies,Storage,OFF-ST-10001490,"Hot File 7-Pocket, Floor Stand",856.656,107.082,Yes
+US-2016-144057,CV-12805,Austin,Texas,Central,Corporate,Office Supplies,Binders,OFF-BI-10002852,Ibico Standard Transparent Covers,13.184,-20.4352,Yes
+US-2016-144057,CV-12805,Austin,Texas,Central,Corporate,Office Supplies,Appliances,OFF-AP-10000390,Euro Pro Shark Stick Mini Vacuum,48.784,-131.7168,Yes
+US-2016-144057,CV-12805,Austin,Texas,Central,Corporate,Office Supplies,Paper,OFF-PA-10004327,Xerox 1911,76.64,26.824,Yes
+US-2016-144057,CV-12805,Austin,Texas,Central,Corporate,Office Supplies,Binders,OFF-BI-10002353,GBC VeloBind Cover Sets,18.528,-27.792,Yes
+CA-2016-159023,NW-18400,Portland,Oregon,West,Consumer,Office Supplies,Binders,OFF-BI-10002813,Avery Reinforcements for Hole-Punch Pages,4.158,-3.465,Yes
+CA-2016-159023,NW-18400,Portland,Oregon,West,Consumer,Technology,Machines,TEC-MA-10003337,Okidata B401 Printer,179.991,-251.9874,Yes
+CA-2017-150910,JL-15130,Jackson,Tennessee,South,Consumer,Furniture,Tables,FUR-TA-10002903,"Bevis Round Bullnose 29"" High Table Top",934.956,-249.3216,Yes
+CA-2017-150910,JL-15130,Jackson,Tennessee,South,Consumer,Technology,Accessories,TEC-AC-10001013,Logitech ClearChat Comfort/USB Headset H390,46.864,7.6154,Yes
+CA-2017-150910,JL-15130,Jackson,Tennessee,South,Consumer,Office Supplies,Storage,OFF-ST-10000918,Crate-A-Files,26.16,1.962,Yes
+CA-2017-150910,JL-15130,Jackson,Tennessee,South,Consumer,Office Supplies,Art,OFF-AR-10001419,Newell 325,23.128,2.891,Yes
+CA-2017-150910,JL-15130,Jackson,Tennessee,South,Consumer,Office Supplies,Appliances,OFF-AP-10003266,"Holmes Replacement Filter for HEPA Air Cleaner, Large Room",59.24,16.291,Yes
+CA-2016-157280,LW-17125,Virginia Beach,Virginia,South,Consumer,Furniture,Furnishings,FUR-FU-10004665,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",273.96,71.2296,Yes
+CA-2016-157280,LW-17125,Virginia Beach,Virginia,South,Consumer,Technology,Accessories,TEC-AC-10000057,Microsoft Natural Ergonomic Keyboard 4000,89.97,18.8937,Yes
+CA-2016-157280,LW-17125,Virginia Beach,Virginia,South,Consumer,Furniture,Furnishings,FUR-FU-10003806,"Tenex Chairmat w/ Average Lip, 45"" x 53""",756.8,75.68,Yes
+CA-2017-107825,NB-18655,Milwaukee,Wisconsin,Central,Corporate,Office Supplies,Storage,OFF-ST-10001321,"Decoflex Hanging Personal Folder File, Blue",92.52,24.9804,Yes
+CA-2017-107825,NB-18655,Milwaukee,Wisconsin,Central,Corporate,Office Supplies,Storage,OFF-ST-10000777,"Companion Letter/Legal File, Black",37.76,10.5728,Yes
+CA-2017-107825,NB-18655,Milwaukee,Wisconsin,Central,Corporate,Office Supplies,Labels,OFF-LA-10003720,Avery 487,7.38,3.4686,Yes
+CA-2017-107825,NB-18655,Milwaukee,Wisconsin,Central,Corporate,Furniture,Furnishings,FUR-FU-10000206,"GE General Purpose, Extra Long Life, Showcase & Floodlight Incandescent Bulbs",5.82,2.7354,Yes
+CA-2017-143084,BP-11050,Los Angeles,California,West,Corporate,Office Supplies,Art,OFF-AR-10002766,Prang Drawing Pencil Set,13.9,3.753,Yes
+CA-2017-143084,BP-11050,Los Angeles,California,West,Corporate,Office Supplies,Envelopes,OFF-EN-10003072,Peel & Seel Envelopes,19.4,9.312,Yes
+CA-2015-148873,EM-13960,Quincy,Illinois,Central,Consumer,Office Supplies,Binders,OFF-BI-10003196,Accohide Poly Flexible Ring Binders,2.992,-4.488,Yes
+CA-2015-148873,EM-13960,Quincy,Illinois,Central,Consumer,Technology,Accessories,TEC-AC-10003657,Lenovo 17-Key USB Numeric Keypad,108.768,2.7192,Yes
+CA-2016-150077,MS-17365,Rockville,Maryland,East,Consumer,Technology,Phones,TEC-PH-10002890,AT&T 17929 Lendline Telephone,90.48,23.5248,Yes
+CA-2017-166898,KH-16630,Santa Ana,California,West,Corporate,Technology,Phones,TEC-PH-10002564,OtterBox Defender Series Case - Samsung Galaxy S4,143.952,17.994,Yes
+CA-2017-166898,KH-16630,Santa Ana,California,West,Corporate,Office Supplies,Paper,OFF-PA-10002262,Xerox 192,19.44,9.3312,Yes
+CA-2015-132941,MM-18280,Haltom City,Texas,Central,Corporate,Office Supplies,Supplies,OFF-SU-10002557,Fiskars Spring-Action Scissors,22.368,1.6776,Yes
+CA-2015-132941,MM-18280,Haltom City,Texas,Central,Corporate,Office Supplies,Paper,OFF-PA-10002160,Xerox 1978,32.368,11.7334,Yes
+CA-2015-132941,MM-18280,Haltom City,Texas,Central,Corporate,Technology,Accessories,TEC-AC-10003095,Logitech G35 7.1-Channel Surround Sound Headset,207.984,36.3972,Yes
+CA-2017-122007,JK-15325,Los Angeles,California,West,Corporate,Office Supplies,Appliances,OFF-AP-10000358,Fellowes Basic Home/Office Series Surge Protectors,90.86,26.3494,Yes
+CA-2016-104689,FH-14365,Los Angeles,California,West,Corporate,Office Supplies,Art,OFF-AR-10001149,"Sanford Colorific Colored Pencils, 12/Box",23.04,6.912,Yes
+CA-2016-126732,LR-16915,Los Angeles,California,West,Consumer,Furniture,Furnishings,FUR-FU-10001889,Ultra Door Pull Handle,94.68,31.2444,Yes
+CA-2016-126732,LR-16915,Los Angeles,California,West,Consumer,Office Supplies,Storage,OFF-ST-10000321,Akro Stacking Bins,23.67,0.9468,Yes
+CA-2016-126732,LR-16915,Los Angeles,California,West,Consumer,Technology,Phones,TEC-PH-10001530,Cisco Unified IP Phone 7945G VoIP phone,1091.168,68.198,Yes
+CA-2016-126732,LR-16915,Los Angeles,California,West,Consumer,Office Supplies,Art,OFF-AR-10004752,Blackstonian Pencils,18.69,5.2332,Yes
+CA-2016-126732,LR-16915,Los Angeles,California,West,Consumer,Furniture,Tables,FUR-TA-10001539,Chromcraft Rectangular Conference Tables,568.728,28.4364,Yes
+CA-2016-126732,LR-16915,Los Angeles,California,West,Consumer,Office Supplies,Binders,OFF-BI-10001553,SpineVue Locking Slant-D Ring Binders by Cardinal,7.312,2.5592,Yes
+CA-2017-155712,KD-16615,Los Angeles,California,West,Corporate,Office Supplies,Binders,OFF-BI-10004224,Catalog Binders with Expanding Posts,107.648,33.64,Yes
+CA-2015-111948,AG-10495,Detroit,Michigan,Central,Corporate,Office Supplies,Storage,OFF-ST-10003282,"Advantus 10-Drawer Portable Organizer, Chrome Metal Frame, Smoke Drawers",418.32,117.1296,Yes
+CA-2015-111948,AG-10495,Detroit,Michigan,Central,Corporate,Office Supplies,Appliances,OFF-AP-10002311,"Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter",123.858,46.7908,Yes
+CA-2017-121853,DB-13660,Los Angeles,California,West,Consumer,Office Supplies,Paper,OFF-PA-10003641,Xerox 1909,211.04,97.0784,Yes
+CA-2017-121853,DB-13660,Los Angeles,California,West,Consumer,Furniture,Chairs,FUR-CH-10003973,GuestStacker Chair with Chrome Finish Legs,594.816,59.4816,Yes
+CA-2017-121853,DB-13660,Los Angeles,California,West,Consumer,Office Supplies,Binders,OFF-BI-10000977,Ibico Plastic Spiral Binding Combs,72.96,23.712,Yes
+CA-2017-109085,CK-12325,Troy,Ohio,East,Home Office,Furniture,Tables,FUR-TA-10001086,"SAFCO PlanMaster Boards, 60w x 37-1/2d, White Melamine",455.97,-106.393,Yes
+CA-2017-109085,CK-12325,Troy,Ohio,East,Home Office,Office Supplies,Binders,OFF-BI-10001525,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Executive Red",5.715,-4.7625,Yes
+CA-2017-109085,CK-12325,Troy,Ohio,East,Home Office,Technology,Phones,TEC-PH-10000526,Vtech CS6719,57.594,-11.5188,Yes
+CA-2017-109085,CK-12325,Troy,Ohio,East,Home Office,Furniture,Furnishings,FUR-FU-10004973,Flat Face Poster Frame,30.144,8.2896,Yes
+CA-2017-109085,CK-12325,Troy,Ohio,East,Home Office,Furniture,Chairs,FUR-CH-10003981,Global Commerce Series Low-Back Swivel/Tilt Chairs,899.43,-12.849,Yes
+US-2016-148957,CC-12430,Redmond,Washington,West,Home Office,Office Supplies,Labels,OFF-LA-10002195,Avery 481,12.32,5.9136,Yes
+CA-2014-100867,EH-14125,Lakewood,California,West,Home Office,Technology,Phones,TEC-PH-10004922,RCA Visys Integrated PBX 8-Line Router,321.552,20.097,Yes
+CA-2017-156958,PB-18805,Seattle,Washington,West,Home Office,Office Supplies,Binders,OFF-BI-10001524,GBC Premium Transparent Covers with Diagonal Lined Pattern,83.92,29.372,Yes
+CA-2017-156958,PB-18805,Seattle,Washington,West,Home Office,Furniture,Furnishings,FUR-FU-10003268,Eldon Radial Chair Mat for Low to Medium Pile Carpets,199.9,39.98,Yes
+CA-2017-156958,PB-18805,Seattle,Washington,West,Home Office,Technology,Phones,TEC-PH-10000148,Cyber Acoustics AC-202b Speech Recognition Stereo Headset,31.176,-7.0146,Yes
+CA-2017-156958,PB-18805,Seattle,Washington,West,Home Office,Office Supplies,Binders,OFF-BI-10001543,GBC VeloBinder Manual Binding System,172.752,60.4632,Yes
+CA-2017-156958,PB-18805,Seattle,Washington,West,Home Office,Office Supplies,Binders,OFF-BI-10002071,Fellowes Black Plastic Comb Bindings,9.296,3.0212,Yes
+CA-2017-108931,HZ-14950,New York City,New York,East,Consumer,Office Supplies,Paper,OFF-PA-10002741,Xerox 1980,8.56,3.852,Yes
+CA-2017-108931,HZ-14950,New York City,New York,East,Consumer,Office Supplies,Paper,OFF-PA-10003845,Xerox 1987,11.56,5.6644,Yes
+CA-2016-130638,SC-20095,Los Angeles,California,West,Consumer,Furniture,Furnishings,FUR-FU-10002116,"Tenex Carpeted, Granite-Look or Clear Contemporary Contour Shape Chair Mats",282.84,19.7988,Yes
+CA-2016-130638,SC-20095,Los Angeles,California,West,Consumer,Office Supplies,Labels,OFF-LA-10002195,Avery 481,27.72,13.3056,Yes
+CA-2016-105291,SP-20920,San Luis Obispo,California,West,Consumer,Office Supplies,Fasteners,OFF-FA-10003059,Assorted Color Push Pins,3.62,1.1946,Yes
+CA-2016-161746,CS-11950,Los Angeles,California,West,Consumer,Furniture,Chairs,FUR-CH-10004626,Office Star Flex Back Scooter Chair with Aluminum Finish Frame,242.136,12.1068,Yes
+CA-2016-161746,CS-11950,Los Angeles,California,West,Consumer,Office Supplies,Art,OFF-AR-10000390,Newell Chalk Holder,12.39,5.6994,Yes
+CA-2016-161746,CS-11950,Los Angeles,California,West,Consumer,Furniture,Furnishings,FUR-FU-10003731,"Eldon Expressions Wood and Plastic Desk Accessories, Oak",19.96,5.5888,Yes
+CA-2016-161746,CS-11950,Los Angeles,California,West,Consumer,Office Supplies,Storage,OFF-ST-10002743,SAFCO Boltless Steel Shelving,340.92,3.4092,Yes
+CA-2017-167395,KM-16720,Lowell,Massachusetts,East,Consumer,Office Supplies,Appliances,OFF-AP-10001293,Belkin 8 Outlet Surge Protector,286.86,80.3208,Yes
+CA-2017-167395,KM-16720,Lowell,Massachusetts,East,Consumer,Technology,Phones,TEC-PH-10004977,GE 30524EE4,979.95,284.1855,Yes
+CA-2017-167395,KM-16720,Lowell,Massachusetts,East,Consumer,Office Supplies,Supplies,OFF-SU-10001935,Staple remover,4.36,0.1744,Yes
+CA-2017-142328,TC-21535,San Francisco,California,West,Home Office,Office Supplies,Paper,OFF-PA-10000380,"REDIFORM Incoming/Outgoing Call Register, 11"" X 8 1/2"", 100 Messages",50.04,25.02,Yes
+CA-2014-169019,LF-17185,San Antonio,Texas,Central,Consumer,Office Supplies,Binders,OFF-BI-10004995,GBC DocuBind P400 Electric Binding System,2177.584,-3701.8928,Yes
+CA-2014-169019,LF-17185,San Antonio,Texas,Central,Consumer,Furniture,Furnishings,FUR-FU-10004666,DAX Clear Channel Poster Frame,17.496,-10.0602,Yes
+CA-2014-169019,LF-17185,San Antonio,Texas,Central,Consumer,Office Supplies,Binders,OFF-BI-10001524,GBC Premium Transparent Covers with Diagonal Lined Pattern,16.784,-26.8544,Yes
+CA-2014-169019,LF-17185,San Antonio,Texas,Central,Consumer,Technology,Accessories,TEC-AC-10002076,Microsoft Natural Keyboard Elite,431.136,-26.946,Yes
+CA-2014-169019,LF-17185,San Antonio,Texas,Central,Consumer,Office Supplies,Binders,OFF-BI-10001679,GBC Instant Index System for Binding Systems,8.88,-13.32,Yes
+CA-2014-169019,LF-17185,San Antonio,Texas,Central,Consumer,Office Supplies,Appliances,OFF-AP-10003281,Acco 6 Outlet Guardian Standard Surge Suppressor,4.836,-12.09,Yes
+US-2014-164406,BD-11605,San Francisco,California,West,Consumer,Office Supplies,Appliances,OFF-AP-10003287,Tripp Lite TLP810NET Broadband Surge for Modem/Fax,152.91,42.8148,Yes
+US-2014-164406,BD-11605,San Francisco,California,West,Consumer,Office Supplies,Paper,OFF-PA-10000167,Xerox 1925,92.94,41.823,Yes
+US-2014-164406,BD-11605,San Francisco,California,West,Consumer,Office Supplies,Binders,OFF-BI-10002309,Avery Heavy-Duty EZD  Binder With Locking Rings,17.856,6.2496,Yes
+US-2014-164406,BD-11605,San Francisco,California,West,Consumer,Office Supplies,Binders,OFF-BI-10003638,GBC Durable Plastic Covers,46.44,15.093,Yes
+US-2014-164406,BD-11605,San Francisco,California,West,Consumer,Furniture,Chairs,FUR-CH-10003833,Novimex Fabric Task Chair,195.136,-12.196,Yes
+CA-2017-169327,MH-17290,Los Angeles,California,West,Home Office,Office Supplies,Appliances,OFF-AP-10001492,"Acco Six-Outlet Power Strip, 4' Cord Length",43.1,11.206,Yes
+CA-2017-169327,MH-17290,Los Angeles,California,West,Home Office,Furniture,Furnishings,FUR-FU-10004188,Luxo Professional Combination Clamp-On Lamps,511.5,132.99,Yes
+CA-2017-169327,MH-17290,Los Angeles,California,West,Home Office,Office Supplies,Binders,OFF-BI-10004330,"GBC Velobind Prepunched Cover Sets, Regency Series",147.92,46.225,Yes
+CA-2015-141593,DB-12970,Los Angeles,California,West,Corporate,Office Supplies,Binders,OFF-BI-10001153,Ibico Recycled Grain-Textured Covers,55.264,20.724,Yes
+CA-2015-141593,DB-12970,Los Angeles,California,West,Corporate,Office Supplies,Paper,OFF-PA-10004983,Xerox 23,6.48,3.1104,Yes
+CA-2015-141593,DB-12970,Los Angeles,California,West,Corporate,Office Supplies,Binders,OFF-BI-10000948,"GBC Laser Imprintable Binding System Covers, Desert Sand",34.248,11.5587,Yes
+CA-2015-141593,DB-12970,Los Angeles,California,West,Corporate,Furniture,Tables,FUR-TA-10002622,"Bush Andora Conference Table, Maple/Graphite Gray Finish",273.568,10.2588,Yes
+US-2014-143287,KN-16705,New Rochelle,New York,East,Home Office,Office Supplies,Paper,OFF-PA-10001776,"Wirebound Message Books, Four 2 3/4"" x 5"" Forms per Page, 600 Sets per Book",46.35,21.7845,Yes
+US-2014-143287,KN-16705,New Rochelle,New York,East,Home Office,Office Supplies,Paper,OFF-PA-10004039,Xerox 1882,223.92,109.7208,Yes
+US-2014-143287,KN-16705,New Rochelle,New York,East,Home Office,Office Supplies,Supplies,OFF-SU-10001574,Acme Value Line Scissors,7.3,2.19,Yes
+CA-2017-121258,DB-13060,Costa Mesa,California,West,Consumer,Furniture,Furnishings,FUR-FU-10000747,Tenex B1-RE Series Chair Mats for Low Pile Carpets,91.96,15.6332,Yes
+CA-2017-121258,DB-13060,Costa Mesa,California,West,Consumer,Technology,Phones,TEC-PH-10003645,Aastra 57i VoIP phone,258.576,19.3932,Yes
+CA-2017-121258,DB-13060,Costa Mesa,California,West,Consumer,Office Supplies,Paper,OFF-PA-10004041,"It's Hot Message Books with Stickers, 2 3/4"" x 5""",29.6,13.32,Yes
